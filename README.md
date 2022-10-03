@@ -1,5 +1,5 @@
 [<p align='center'> Everything I learned transitioning out of the Army </p>](README.md)
-<li align='center'> Contact me at my [LinkedIn](https://www.linkedin.com/in/nebyou-abera/) </li>
+<p align='center'> Contact me at my [LinkedIn](https://www.linkedin.com/in/nebyou-abera/) </li>
 
 1. [Army transition timeline](transition_timeline.md)
 2. [General career advice: How to learn to speak civilian business terminology (or figure out what you want to do)](general_career_advice.md)
