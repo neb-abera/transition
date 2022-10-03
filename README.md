@@ -9,4 +9,6 @@
 
 I made this to distribute the lessons I learned during my transition. If you're new to your transition, I recommend reading this document in sequential order of the table of contents
 
+This is still a work in progress and isn't ready for viewing
+
 (timeline here)
