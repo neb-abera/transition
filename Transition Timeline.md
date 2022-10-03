@@ -1,11 +1,11 @@
 <p align='center'> Everything I learned transitioning out the Army </p>
 <p align='center'> Updated October 2022 </p>
 
-Army transition process
-How to transition to a job in software development, information technology, cyber
-Resume help
-Networking and interview tips
-General career advice: How to learn to speak civilian business terminology (or figure out what you want to do)
+1. Army transition timeline
+2. How to transition to a job in software development, information technology, cyber
+3. Resume help
+4. Networking and interview tips
+5. General career advice: How to learn to speak civilian business terminology (or figure out what you want to do)
 
 Here is an image with timeline requirements and recommendations
 
