@@ -6,3 +6,5 @@
 3. [Resume help](general_career_advice.md)
 4. [Networking and interview tips](networking.md)
 6. [How to transition to a job in software development, information technology, cyber](cs_careers.md)
+
+Check the resume_help folder for resume help documents
