@@ -1,2 +1,2 @@
-# Everything I learned during my Army -> civilian transition
-## Updated October 2022
+<p align='center'> Everything I learned transitioning out the Army </p>
+<p align='center'> Updated October 2022 </p>
