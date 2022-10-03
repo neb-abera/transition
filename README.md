@@ -1,7 +1,7 @@
 <p align='center'> Everything I learned transitioning out of the Army </p>
 <p align='center'> Updated October 2022 </p>
 
-1. [Army transition timeline](docs/transition_timeline.md)
+1. [Army transition timeline](docs/transition/transition_timeline.md)
 2. General career advice: How to learn to speak civilian business terminology (or figure out what you want to do)
 3. Resume help
 4. Networking and interview tips
