@@ -7,6 +7,6 @@
 4. [Networking and interview tips](networking.md)
 6. [How to transition to a job in software development, information technology, cyber](cs_careers.md)
 
-I made this to help distribute some of the lessons I learned during my transition. If you're new to your transition, I recommend reading this document in sequential order of the table of contents
+I made this to distribute the lessons I learned during my transition. If you're new to your transition, I recommend reading this document in sequential order of the table of contents
 
 (timeline here)
