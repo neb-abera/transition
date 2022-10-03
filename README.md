@@ -1,4 +1,4 @@
-<p align='center'> [Everything I learned transitioning out of the Army](README.md) </p>
+[<p align='center'> Everything I learned transitioning out of the Army </p>](README.md)
 <p align='center'> Updated October 2022 </p>
 
 1. [Army transition timeline](transition_timeline.md)
