@@ -1,8 +1,8 @@
-<p align='center'> Everything I learned transitioning out of the Army </p>
-<p align='center'> Updated October 2022 </p>
+[<p align='center'> Everything I learned transitioning out of the Army </p>](README.md)
+[<p align='center'> Contact me at my LinkedIn </li>](https://www.linkedin.com/in/nebyou-abera/)
 
-1. [Army transition timeline](https://github.com/nebyou-abera/transition/blob/1c30cbc6e829dfe423b38f8f2b60201b1e1a06a3/Transition%20Timeline.md)
-2. General career advice: How to learn to speak civilian business terminology (or figure out what you want to do)
-3. Resume help
-4. Networking and interview tips
-6. How to transition to a job in software development, information technology, cyber
+1. [Army transition timeline](transition_timeline.md)
+2. [General career advice: How to learn to speak civilian business terminology (or figure out what you want to do)](general_career_advice.md)
+3. [Resume help](general_career_advice.md)
+4. [Networking and interview tips](networking.md)
+6. [How to transition to a job in software development, information technology, cyber](cs_careers.md)
