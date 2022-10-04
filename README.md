@@ -25,22 +25,16 @@ There's really no wrong way to learn the fundamentals of programming. Just pick 
 
 2. Take a data structures and algorithms (DSA) course
 
-<p align="center">I like [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms
+I like [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms
 
-If you want a follow-up DSA course, or just want a more robust reference, then I recommend [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1)</p>
+If you want a follow-up DSA course, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
 
-3. Study follow on topics that interest you or that you want to work in. A lot of folks recommend Discrete Mathematics. I recommend that you follow the [Open Source Computer Science Degree]( roadmap until you know what you're doing.
-
-If you need a general roadmap and class recommendations then I recommend looking at the Open Source Computer Science
-
-https://github.com/ossu/computer-science#intro-cs
+3. Study follow on topics that interest you or that you want to work in. A lot of folks recommend Discrete Mathematics. I recommend that you follow the [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing.
 
 There's really no best way to learn these skills. It’s a lot of information so the most important parts I’ve found are
 1. Staying organized: I had to start journaling key takeaways so that I don’t get lost, storing stuff in bookmarks, using outlook calendar etc
 2. Making and sticking to a plan: it’s easy to get distracted so I found that I need accountability to stay on track. I got an agenda and forced myself to follow a daily routine, turned on “screen time” and notification limits on my phone and computer, signed up for classes that have structure, found friends online and set appointments so I had a deadline to force myself to get better by. You have your kid so that’s a good accountability buddy.
 3. Learning the best way I learn: I’ve found that I learn best from textbooks and using code grind websites to solve problems (like codewars or leetcode). If you’re going to use code grind websites set a 20minute timer and try to solve the problem with no help besides looking at documentation. Then look at the solution afterwards and look up anything I didn’t know. I’ve found that I learn best by working through a textbook and then YouTubing anything I don’t understand right away. I buy textbooks because I like knowing the “why” behind stuff and I can bookmark it and reference it later. The danger with videos is that you can think you “know” how to do something by watching them. Don’t fall into that trap
-
-Screen Shot 2022-09-28 at 4.49.57 PM.png
 
 You need to use sites like leetcode, codewars, edabit etc to train your problem solving and specific programming language skills. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up
 
