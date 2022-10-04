@@ -1,4 +1,4 @@
-[<p align='center'> Everything I learned transitioning out of the Army </p>](README.md)
+[<p align='center'> Everything I learned transitioning out of the Army </p>](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)
 [<p align='center'> Contact me at my LinkedIn </li>](https://www.linkedin.com/in/nebyou-abera/)
 
 1. [Army transition timeline](transition_timeline.md)
