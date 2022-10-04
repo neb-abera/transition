@@ -1,30 +1,35 @@
 [<p align='center'> Everything I learned transitioning out of the Army </p>](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)
 [<p align='center'> Contact me at my LinkedIn </li>](https://www.linkedin.com/in/nebyou-abera/)
 
-1. [Army transition timeline](transition_timeline.md)
-2. [General career advice: How to learn to speak civilian business terminology (or figure out what you want to do)](general_career_advice.md)
-3. [Resume help](general_career_advice.md)
-4. [Networking and interview tips](networking.md)
-6. [How to transition to a job in software development, information technology, cyber](cs_careers.md)
+I made the following guide to distribute the lessons I learned during my transition from the Army to Software Development. 
 
-I made this to distribute the lessons I learned during my transition. If you're new to your transition, I recommend reading this document in sequential order of the table of contents
+You can view my guide here on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT)
 
-This is still a work in progress and isn't ready for viewing
+I wanted to provide a succinct guide to the following topics
 
-You can view a a timeline format of this guide on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT)
+1. Army transition timeline
+2. General career advice like how to learn to speak civilian business terminology
+3. Resume help
+4. Networking and interview tips
+6. How to transition to a job in software development, information technology, or cyber
 
-My recommendation to get into a job in a computer science field is the folllowing
+This is a work in progress. Feel free to make recommendations.
 
-1. master the fundamentals of programming. There's really no wrong way to learn these but I recommend doing the course in python from the link below, searching youtube for any topics you don't understand out right, and then spending 30% of your time reading/watching and 70% coding.
+My recommendation to learn how to program or how to transition into a job in a computer science field is the folllowing
 
-2. take a data structures and algorithms (DSA) course. If you really want to you could take a discrete mathematics course too. I like the following books for DSA
+1. Master the fundamentals of programming
 
-https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230
-and if you get done with that and want more then this one
+<p align="center">I generally recommend doing [this Python course](https://github.com/ossu/computer-science#intro-cs), searching Youtube for any topics you don't understand out right, and then spending 30% of your time reading/watching and 70% coding. You should use as many resources as it takes to find the best way to make a topic click for you.
 
-https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1
+There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs). </p>
 
-3. study follow on topics that interest you or that you want to learn to work in
+2. Take a data structures and algorithms (DSA) course
+
+<p align="center">I like [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms
+
+If you want a follow-up DSA course, or just want a more robust reference, then I recommend [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1)</p>
+
+3. Study follow on topics that interest you or that you want to work in. A lot of folks recommend Discrete Mathematics. I recommend that you follow the [Open Source Computer Science Degree]( roadmap until you know what you're doing.
 
 If you need a general roadmap and class recommendations then I recommend looking at the Open Source Computer Science
 
