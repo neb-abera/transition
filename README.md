@@ -11,4 +11,4 @@ I made this to distribute the lessons I learned during my transition. If you're 
 
 This is still a work in progress and isn't ready for viewing
 
-(timeline here)
+You can view a a timeline format of this guide on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT)
