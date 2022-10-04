@@ -19,9 +19,9 @@ My recommendation to learn how to program or how to transition into a job in a c
 
 1. Master the fundamentals of programming
 
-<p align="center">I generally recommend doing [this Python course](https://github.com/ossu/computer-science#intro-cs), searching Youtube for any topics you don't understand out right, and then spending 30% of your time reading/watching and 70% coding. You should use as many resources as it takes to find the best way to make a topic click for you.
+I generally recommend doing [this Python course](https://github.com/ossu/computer-science#intro-cs), searching Youtube for any topics you don't understand out right, and then spending 30% of your time reading/watching and 70% coding. You should use as many resources as it takes to find the best way to make a topic click for you.
 
-There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs). </p>
+There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs).
 
 2. Take a data structures and algorithms (DSA) course
 
