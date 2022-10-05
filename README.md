@@ -1,4 +1,4 @@
-# [Everything I learned transitioning out of the Army](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)
+# <p align="center">[Everything I learned transitioning out of the Army](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)</p>
 ## [Contact me at my LinkedIn](https://www.linkedin.com/in/nebyou-abera/)
 
 ##Intro
