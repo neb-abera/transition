@@ -1,5 +1,6 @@
 # <p align="center">[Everything I learned transitioning out of the Army](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)</p>
-## <p align="center">[Contact me at my LinkedIn](https://www.linkedin.com/in/nebyou-abera/)</p>
+### <p align="center">[Contact me at my LinkedIn](https://www.linkedin.com/in/nebyou-abera/)</p>
+### <p align="center">[Schedule a time to speak with me]([https://www.linkedin.com/in/nebyou-abera/](https://calendly.com/nebyou_abera/zoom))</p>
 
 ## Intro
 I made two guides to distribute the lessons I learned during my transition from the Army to Software Development. I embedded links, documents, and videos. Please click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress. Feel free to make send me questions, comments, and recommendations.
@@ -17,8 +18,8 @@ I made two guides to distribute the lessons I learned during my transition from 
 
 ## My recommendation to learn how to program
 
-1. Learn to think like a programmer, and how to search
-Thinking like a programmer is the most important part part of learning programming. [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it, but it matches my personal programming process below.
+1. Learn to think like a programmer
+   Thinking like a programmer is the most important part part of learning to program. [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it, but it matches my personal programming process that I've listed below.
 
    1. Understand what the problem is asking or what you want to do (inputs, process, and output)
    2. Make a plan on how you think you can do it. Try to break the problem down into easier to tackle portions
@@ -29,14 +30,14 @@ Thinking like a programmer is the most important part part of learning programmi
 
    https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
 
+2. Learn how to search
    You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
 
    There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
 
-   Most of my search results are probably "best ______ Reddit" "best ______ quora"
+   Most of my search results on any given day are probably "best ______ Reddit" "best ______ quora"
 
 2. Be a curious and consistent learner
-   you need to develop your problem solving skills. being a good software engineer doesn't mean you know a lot of languages, it means that you are a skilled problem solver. You do this by researching solutions to problems you are facing, developing 
    Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
 
    DO follow 
@@ -44,7 +45,7 @@ Thinking like a programmer is the most important part part of learning programmi
    DO spend more time "doing" then passively learning how to do something. Usually spending 30% of your time reading/watching and 70% coding
 Here are the most commonly suggested ways to learn the fundamentals of programming
 
-2. Learn the fundamentals of programming
+3. Learn the fundamentals of programming
 
    There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. 
 
@@ -60,7 +61,7 @@ Here are the most commonly suggested ways to learn the fundamentals of programmi
 
    If you want a follow-up DSA course, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
 
-4. Study follow on topics that interest you or that you want to work in. I recommend that you follow the [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
+4. Continue to develop your problem solving skills, and study follow on topics that interest you or that you want to work in. I recommend that you follow roadmaps like [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
 
 5. Follow talented influencers and resources
 
