@@ -1,7 +1,7 @@
 # <p align="center">[Everything I learned transitioning out of the Army](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)</p>
 ## <p align="center">[Contact me at my LinkedIn](https://www.linkedin.com/in/nebyou-abera/)</p>
 
-##Intro
+## Intro
 I made two guides to distribute the lessons I learned during my transition from the Army to Software Development. I embedded links, documents, and videos. Please click on those to ensure that you understand the topic in its breadth and depth.
 
 1. The timeline on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT) shows everything I learned during my transition, and has helpful links and documents embedded. It answers questions about 
