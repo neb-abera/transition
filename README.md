@@ -6,8 +6,8 @@
 I made two guides to distribute the lessons I learned during my transition from the Army to Software Development. I embedded links, documents, and videos. Please click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress. Feel free to make send me questions, comments, and recommendations.
 
 1. The timeline on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT) shows everything I learned during my transition, and has helpful links and documents embedded. It answers questions about 
-   * the Army transition timeline including my recommendations and things I wish I had known
-   * general career advice like how to learn to speak civilian business terminology
+   * the Army transition timeline, things I wish I had known, and recommendations about your transition
+   * general career advice like how to learn learn business terminology
    * resume help
    * networking and interview tips
 
@@ -16,64 +16,74 @@ I made two guides to distribute the lessons I learned during my transition from 
    * which programming language should I learn?
    * how do I transition to a job in software development, information technology, or cyber?
 
-## My recommendation to learn how to program
+   Here is a good intro video from [Andy Sterkowitz](https://www.youtube.com/watch?v=ueXjGMrmn8k) on some of the topics I will cover below.
 
-1. Learn to think like a programmer
-   Thinking like a programmer is the most important part part of learning to program. [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it, but it matches my personal programming process that I've listed below.
+## My recommendations on how to learn programming
 
-   1. Understand what the problem is asking or what you want to do (inputs, process, and output)
-   2. Make a plan on how you think you can do it. Try to break the problem down into easier to tackle portions
-   3. Try your plan and research what the best way to do each individual item is
-   4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
+1. Learn the fundamentals of programming
 
-   That’s why no matter what route you take in programming, you’ll learn the skills. Because you use the problem solving mindset. I’ve never read this website but they say the same thing I just did
+   There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I'm going to list the best reviewed methods online and my opinion on them. I'm also going to stack them from the ones I'd most recommend to the ones I least recommend
 
-   https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
-
-2. Learn how to search
-   You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
-
-   There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
-
-   Most of my search results on any given day are probably "best ______ Reddit" "best ______ quora"
-
-2. Be a curious and consistent learner
-   Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
-
-   DO follow 
-
-   DO spend more time "doing" then passively learning how to do something. Usually spending 30% of your time reading/watching and 70% coding
-Here are the most commonly suggested ways to learn the fundamentals of programming
-
-3. Learn the fundamentals of programming
-
-   There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. 
-
+   Harvard's CS50: Most beginnners will struggle with week 5 and beyond in this course. They also use a variety of languages which detracts from a beginner's ability to learn the concepts and patterns behind the languages being used.
+   
    This is the recommended path by the Open Source Society [this Python course](https://github.com/ossu/computer-science#intro-cs), 
 
    I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs).
 
    The most recommended intro to programming courses are 
 
-3. Take a data structures and algorithms (DSA) course
+2. Train coding skills daily
+      You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills. I recommend codewars if you're a beginner. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
+      
+      This is my methodology for training.
+      
+      1. set a clock for 
+
+   
+
+2. Take a data structures and algorithms (DSA) course
 
    I like [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms
 
    If you want a follow-up DSA course, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
+   
+3. Learn to think like a programmer
+   Thinking like a programmer is the most important part part of learning to program. That’s why no matter what route you take in programming, you’ll learn the skills of a programmer. That's because memorizing programming lanague syntax does not make you a programmer, applying the problem solving mindset is what makes you a programmer.
+   
+   My personal methodology is 
+      1. Understand what the problem is asking or what you want to do (inputs, process, and output)
+      2. Make a plan on how you think you can do it. Try to break the problem down into easier to tackle portions
+      3. Try your plan and research what the best way to do each individual item is
+      4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
 
-4. Continue to develop your problem solving skills, and study follow on topics that interest you or that you want to work in. I recommend that you follow roadmaps like [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
+   [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it.
+   
+    I had never read this website, until I made this document, but they say the same thing I just did
 
-5. Follow talented influencers and resources
+   https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+
+4. Learn how to search
+   You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
+
+   There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
+
+   Most of my search results on any given day are probably "best ______ Reddit" "best ______ quora"
+
+5. Be a curious and consistent learner
+   Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
+
+   AVOID PASSIVE "LEARNING" - This is one of the most common mistakes people make when they try to learn programming. You should spend more time "doing" then passively learning how to do something. Usually spending <=30% of your time reading/watching and >=70% coding
+   
+   Here are two videos on mistakes beginners make. The first is from [Aaron Jack](https://www.youtube.com/watch?v=T7aSI-E1fCE) and the second is a video from [William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc) on competitive programming but the principles still apply.
+
+6. Continue to develop your problem solving skills, and study follow on topics that interest you or that you want to work in. I recommend that you follow roadmaps like [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
+
+7. Follow talented influencers and resources
 
    There's really no best way to learn these skills. It’s a lot of information so the most important parts I’ve found are
    1. Staying organized: I had to start journaling key takeaways so that I don’t get lost, storing stuff in bookmarks, using outlook calendar etc
    2. Making and sticking to a plan: it’s easy to get distracted so I found that I need accountability to stay on track. I got an agenda and forced myself to follow a daily routine, turned on “screen time” and notification limits on my phone and computer, signed up for classes that have structure, found friends online and set appointments so I had a deadline to force myself to get better by. You have your kid so that’s a good accountability buddy.
    3. Learning the best way I learn: I’ve found that I learn best from textbooks and using code grind websites to solve problems (like codewars or leetcode). If you’re going to use code grind websites set a 20minute timer and try to solve the problem with no help besides looking at documentation. Then look at the solution afterwards and look up anything I didn’t know. I’ve found that I learn best by working through a textbook and then YouTubing anything I don’t understand right away. I buy textbooks because I like knowing the “why” behind stuff and I can bookmark it and reference it later. The danger with videos is that you can think you “know” how to do something by watching them. Don’t fall into that trap
-
-   You need to use sites like leetcode, codewars, edabit etc to train your problem solving and specific programming language skills. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up
-
-   https://www.codewars.com/
-
 
    You then need to figure out what field of computer science you want to work in. This is important because there are countless sub-fields, programming tools/languages, companies etc. I recommend looking up the various fields and finding out what interests you. In the picture below there are countless areas of specialization in each job title.
 
