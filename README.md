@@ -1,35 +1,60 @@
-[<p align='center'> Everything I learned transitioning out of the Army </p>](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)
-[<p align='center'> Contact me at my LinkedIn </li>](https://www.linkedin.com/in/nebyou-abera/)
+#[Everything I learned transitioning out of the Army](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)
+##[Contact me at my LinkedIn](https://www.linkedin.com/in/nebyou-abera/)
 
-I made the following guide to distribute the lessons I learned during my transition from the Army to Software Development. 
+##Intro
+I made two guides to distribute the lessons I learned during my transition from the Army to Software Development. I embedded links, documents, and videos. Please click on those to ensure that you understand the topic in its breadth and depth.
 
-You can view my guide here on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT)
+1. The timeline on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT) shows everything I learned during my transition, and has helpful links and documents embedded. It answers questions about 
+-the Army transition timeline including my recommendations and things I wish I had known
+-general career advice like how to learn to speak civilian business terminology
+-resume help
+-networking and interview tips
 
-I wanted to provide a succinct guide to the following topics
+2. There are so many incredible resources out there to help transition people into tech. But, the enormity of resources can give people "paralysis by analysis" as they try to decide which option to pick. This document below is meant to answer questions like
+-how do I learn to program?
+-which programming language should I learn?
+-how do I transition to a job in software development, information technology, or cyber?
 
-1. Army transition timeline
-2. General career advice like how to learn to speak civilian business terminology
-3. Resume help
-4. Networking and interview tips
-6. How to transition to a job in software development, information technology, or cyber
+This is a work in progress. Feel free to make send me questions, comments, and recommendations.
 
-This is a work in progress. Feel free to make recommendations.
+##My recommendation to learn how to program
 
-My recommendation to learn how to program or how to transition into a job in a computer science field is the folllowing
+1. Learn how to search
+-The most important skill to have is the ability to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information
+-Learn to develop the skills and resources needed to utilize [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
 
-1. Master the fundamentals of programming
+-I do this for everything. If I'm going to learn something knew I want to know what the best way to learn it is and who the best teacher is. If I'm buying a TV I want to know what the best products are to get the most bang for my buck.
 
-I generally recommend doing [this Python course](https://github.com/ossu/computer-science#intro-cs), searching Youtube for any topics you don't understand out right, and then spending 30% of your time reading/watching and 70% coding. You should use as many resources as it takes to find the best way to make a topic click for you.
+-Most of my search results are probably "best ______ Reddit" "best ______ quora"
 
-There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs).
+2. Be a curious and consistent learner
+-you need to develop your problem solving skills. being a good software engineer doesn't mean you know a lot of languages, it means that you are a skilled problem solver. You do this by researching solutions to problems you are facing, developing 
+-Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
 
-2. Take a data structures and algorithms (DSA) course
+-DO follow 
+
+-DO spend more time "doing" then passively learning how to do something. Usually spending 30% of your time reading/watching and 70% coding
+Here are the most commonly suggested ways to learn the fundamentals of programming
+
+2. Learn the fundamentals of programming
+
+There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. 
+
+This is the recommended path by the Open Source Society [this Python course](https://github.com/ossu/computer-science#intro-cs), 
+
+ I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs).
+
+The most recommended intro to programming courses are 
+
+3. Take a data structures and algorithms (DSA) course
 
 I like [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms
 
 If you want a follow-up DSA course, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
 
-3. Study follow on topics that interest you or that you want to work in. A lot of folks recommend Discrete Mathematics. I recommend that you follow the [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing.
+4. Study follow on topics that interest you or that you want to work in. I recommend that you follow the [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
+
+5. Follow talented influencers and resources
 
 There's really no best way to learn these skills. It’s a lot of information so the most important parts I’ve found are
 1. Staying organized: I had to start journaling key takeaways so that I don’t get lost, storing stuff in bookmarks, using outlook calendar etc
