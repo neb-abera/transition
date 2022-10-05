@@ -17,13 +17,23 @@ I made two guides to distribute the lessons I learned during my transition from 
 
 This is a work in progress. Feel free to make send me questions, comments, and recommendations.
 
-##My recommendation to learn how to program
+## My recommendation to learn how to program
 
-1. Learn how to search
--The most important skill to have is the ability to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information
--Learn to develop the skills and resources needed to utilize [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
+1. Learn to think like a programmer, and how to search
+Thinking like a programmer is the most important part part of learning programming. [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it, but it matches my personal programming process below.
 
--I do this for everything. If I'm going to learn something knew I want to know what the best way to learn it is and who the best teacher is. If I'm buying a TV I want to know what the best products are to get the most bang for my buck.
+1. Understand what the problem is asking or what you want to do (inputs, process, and output)
+2. Make a plan on how you think you can do it. Try to break the problem down into easier to tackle portions
+3. Try your plan and research what the best way to do each individual item is
+4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
+
+-That’s why no matter what route you take in programming, you’ll learn the skills. Because you use the problem solving mindset. I’ve never read this website but they say the same thing I just did
+
+https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+
+-You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
+
+-There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
 
 -Most of my search results are probably "best ______ Reddit" "best ______ quora"
 
@@ -70,7 +80,7 @@ You then need to figure out what field of computer science you want to work in. 
 
 https://lensdump.com/i/iHcJHP
 
-These are my subjective opinions
+## My subjective opinion on three popular roles in tech
 
 -Software development: develop/maintain software products. Usually a money maker so is treated well by corporate leadership. Usually highly paid. Usually resistant to employment downturns. Requires constant study and improvement to stay on top of trends. Not every company has software engineers. The field is getting exponentially bigger and there’s a war for talent
 
@@ -91,17 +101,9 @@ For jobs in computer science fields, the most important things in order of impor
 -years of experience doing software engineering
 -passing the hiring assessments (usually they use sites like “leetcode” or their own assessment)
 
-Thinking like a programmer is the most important part. Being good at googling is a skills. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving system
 
-1. Understand what the problem is asking or what you want to do (inputs, process, and output)
-2. Make a plan on how you think you can do it. Try to break the problem down into easier to tackle portions
-3. Try your plan and research what the best way to do each individual item is
-4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
 
-That’s why no matter what route you take in programming, you’ll learn the skills. Because you use the problem solving mindset. I’ve never read this website but they say the same thing I just did
-
-https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
-
+## What programming languages should you learn
 Once you learn how to program you’ll find that you need to learn more programming languages because you need better suited tools for what you're trying to do. Just remember that specialization is more important, will get you better paid, and will make you a better program. You should have one or two languages you are an expert at and then one or two that you are familiar with. I recommend learning the following languages so that you’re well rounded.
 
 1. Python: It’s a high level general purpose language.
