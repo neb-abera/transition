@@ -2,7 +2,7 @@
 ## <p align="center">[Contact me at my LinkedIn](https://www.linkedin.com/in/nebyou-abera/)</p>
 
 ## Intro
-I made two guides to distribute the lessons I learned during my transition from the Army to Software Development. I embedded links, documents, and videos. Please click on those to ensure that you understand the topic in its breadth and depth.
+I made two guides to distribute the lessons I learned during my transition from the Army to Software Development. I embedded links, documents, and videos. Please click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress. Feel free to make send me questions, comments, and recommendations.
 
 1. The timeline on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT) shows everything I learned during my transition, and has helpful links and documents embedded. It answers questions about 
    * the Army transition timeline including my recommendations and things I wish I had known
@@ -15,8 +15,6 @@ I made two guides to distribute the lessons I learned during my transition from 
    * which programming language should I learn?
    * how do I transition to a job in software development, information technology, or cyber?
 
-This is a work in progress. Feel free to make send me questions, comments, and recommendations.
-
 ## My recommendation to learn how to program
 
 1. Learn to think like a programmer, and how to search
@@ -27,15 +25,15 @@ Thinking like a programmer is the most important part part of learning programmi
    3. Try your plan and research what the best way to do each individual item is
    4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
 
-   * That’s why no matter what route you take in programming, you’ll learn the skills. Because you use the problem solving mindset. I’ve never read this website but they say the same thing I just did
+   That’s why no matter what route you take in programming, you’ll learn the skills. Because you use the problem solving mindset. I’ve never read this website but they say the same thing I just did
 
-   * https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+   https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
 
-   * You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
+   You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
 
-   * There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
+   There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
 
-   * Most of my search results are probably "best ______ Reddit" "best ______ quora"
+   Most of my search results are probably "best ______ Reddit" "best ______ quora"
 
 2. Be a curious and consistent learner
    * you need to develop your problem solving skills. being a good software engineer doesn't mean you know a lot of languages, it means that you are a skilled problem solver. You do this by researching solutions to problems you are facing, developing 
