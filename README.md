@@ -36,55 +36,55 @@ Thinking like a programmer is the most important part part of learning programmi
    Most of my search results are probably "best ______ Reddit" "best ______ quora"
 
 2. Be a curious and consistent learner
-   * you need to develop your problem solving skills. being a good software engineer doesn't mean you know a lot of languages, it means that you are a skilled problem solver. You do this by researching solutions to problems you are facing, developing 
-   * Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
+   you need to develop your problem solving skills. being a good software engineer doesn't mean you know a lot of languages, it means that you are a skilled problem solver. You do this by researching solutions to problems you are facing, developing 
+   Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
 
-   * DO follow 
+   DO follow 
 
-   * DO spend more time "doing" then passively learning how to do something. Usually spending 30% of your time reading/watching and 70% coding
+   DO spend more time "doing" then passively learning how to do something. Usually spending 30% of your time reading/watching and 70% coding
 Here are the most commonly suggested ways to learn the fundamentals of programming
 
 2. Learn the fundamentals of programming
 
-There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. 
+   There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. 
 
-This is the recommended path by the Open Source Society [this Python course](https://github.com/ossu/computer-science#intro-cs), 
+   This is the recommended path by the Open Source Society [this Python course](https://github.com/ossu/computer-science#intro-cs), 
 
- I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs).
+   I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs).
 
-The most recommended intro to programming courses are 
+   The most recommended intro to programming courses are 
 
 3. Take a data structures and algorithms (DSA) course
 
-I like [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms
+   I like [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms
 
-If you want a follow-up DSA course, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
+   If you want a follow-up DSA course, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
 
 4. Study follow on topics that interest you or that you want to work in. I recommend that you follow the [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
 
 5. Follow talented influencers and resources
 
-There's really no best way to learn these skills. It’s a lot of information so the most important parts I’ve found are
-1. Staying organized: I had to start journaling key takeaways so that I don’t get lost, storing stuff in bookmarks, using outlook calendar etc
-2. Making and sticking to a plan: it’s easy to get distracted so I found that I need accountability to stay on track. I got an agenda and forced myself to follow a daily routine, turned on “screen time” and notification limits on my phone and computer, signed up for classes that have structure, found friends online and set appointments so I had a deadline to force myself to get better by. You have your kid so that’s a good accountability buddy.
-3. Learning the best way I learn: I’ve found that I learn best from textbooks and using code grind websites to solve problems (like codewars or leetcode). If you’re going to use code grind websites set a 20minute timer and try to solve the problem with no help besides looking at documentation. Then look at the solution afterwards and look up anything I didn’t know. I’ve found that I learn best by working through a textbook and then YouTubing anything I don’t understand right away. I buy textbooks because I like knowing the “why” behind stuff and I can bookmark it and reference it later. The danger with videos is that you can think you “know” how to do something by watching them. Don’t fall into that trap
+   There's really no best way to learn these skills. It’s a lot of information so the most important parts I’ve found are
+   1. Staying organized: I had to start journaling key takeaways so that I don’t get lost, storing stuff in bookmarks, using outlook calendar etc
+   2. Making and sticking to a plan: it’s easy to get distracted so I found that I need accountability to stay on track. I got an agenda and forced myself to follow a daily routine, turned on “screen time” and notification limits on my phone and computer, signed up for classes that have structure, found friends online and set appointments so I had a deadline to force myself to get better by. You have your kid so that’s a good accountability buddy.
+   3. Learning the best way I learn: I’ve found that I learn best from textbooks and using code grind websites to solve problems (like codewars or leetcode). If you’re going to use code grind websites set a 20minute timer and try to solve the problem with no help besides looking at documentation. Then look at the solution afterwards and look up anything I didn’t know. I’ve found that I learn best by working through a textbook and then YouTubing anything I don’t understand right away. I buy textbooks because I like knowing the “why” behind stuff and I can bookmark it and reference it later. The danger with videos is that you can think you “know” how to do something by watching them. Don’t fall into that trap
 
-You need to use sites like leetcode, codewars, edabit etc to train your problem solving and specific programming language skills. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up
+   You need to use sites like leetcode, codewars, edabit etc to train your problem solving and specific programming language skills. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up
 
-https://www.codewars.com/
+   https://www.codewars.com/
 
 
-You then need to figure out what field of computer science you want to work in. This is important because there are countless sub-fields, programming tools/languages, companies etc. I recommend looking up the various fields and finding out what interests you. In the picture below there are countless areas of specialization in each job title.
+   You then need to figure out what field of computer science you want to work in. This is important because there are countless sub-fields, programming tools/languages, companies etc. I recommend looking up the various fields and finding out what interests you. In the picture below there are countless areas of specialization in each job title.
 
-https://lensdump.com/i/iHcJHP
+   https://lensdump.com/i/iHcJHP
 
 ## My subjective opinion on three popular roles in tech
 
--Software development: develop/maintain software products. Usually a money maker so is treated well by corporate leadership. Usually highly paid. Usually resistant to employment downturns. Requires constant study and improvement to stay on top of trends. Not every company has software engineers. The field is getting exponentially bigger and there’s a war for talent
+Software development: develop/maintain software products. Usually a money maker so is treated well by corporate leadership. Usually highly paid. Usually resistant to employment downturns. Requires constant study and improvement to stay on top of trends. Not every company has software engineers. The field is getting exponentially bigger and there’s a war for talent
 
--Information technology: a support role. keeps the electronic “plumbing” going (keep the network alive). Usually seen as a “cost” depending on the company culture. If you work at a company culture that doesn’t appreciate it they might pay IT less. Every company has IT. Field has kind of stagnated
+Information technology: a support role. keeps the electronic “plumbing” going (keep the network alive). Usually seen as a “cost” depending on the company culture. If you work at a company culture that doesn’t appreciate it they might pay IT less. Every company has IT. Field has kind of stagnated
 
--Cyber: your job is to protect the companies network from infiltration, or to break into the company to test their defense (blue team vs red team). Usually higher paying than IT, since it’s kind of a sub specialty that requires extra knowledge. Not every company has cyber teams. Some companies don’t value cyber until they are attacked. A growing field that is getting humongous and there’s a war for talent
+Cyber: your job is to protect the companies network from infiltration, or to break into the company to test their defense (blue team vs red team). Usually higher paying than IT, since it’s kind of a sub specialty that requires extra knowledge. Not every company has cyber teams. Some companies don’t value cyber until they are attacked. A growing field that is getting humongous and there’s a war for talent
 
 You don't need a degree in computer science, IT, or cyber to get into those fields. The degree will help you get your foot in the door, make you more competitive than your peers, will probably give you skills and has taught you “how to learn” and how you learn best. Getting a degree is great and makes you more competitive, but isn’t a requirement. Once you learn how to program, probably 3 or so months, it’ll take you about 3-6 or so months to learn data structures and algorithms well enough to pass “hard” level problems on leetcode which is what the MAANG companies require. If you want a regular job you won’t even need to master data structure and algorithms. You could be employable after learning how to program.
 
