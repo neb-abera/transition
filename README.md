@@ -5,15 +5,15 @@
 I made two guides to distribute the lessons I learned during my transition from the Army to Software Development. I embedded links, documents, and videos. Please click on those to ensure that you understand the topic in its breadth and depth.
 
 1. The timeline on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT) shows everything I learned during my transition, and has helpful links and documents embedded. It answers questions about 
--the Army transition timeline including my recommendations and things I wish I had known
--general career advice like how to learn to speak civilian business terminology
--resume help
--networking and interview tips
+   * the Army transition timeline including my recommendations and things I wish I had known
+   * general career advice like how to learn to speak civilian business terminology
+   * resume help
+   * networking and interview tips
 
 2. There are so many incredible resources out there to help transition people into tech. But, the enormity of resources can give people "paralysis by analysis" as they try to decide which option to pick. This document below is meant to answer questions like
--how do I learn to program?
--which programming language should I learn?
--how do I transition to a job in software development, information technology, or cyber?
+   * how do I learn to program?
+   * which programming language should I learn?
+   * how do I transition to a job in software development, information technology, or cyber?
 
 This is a work in progress. Feel free to make send me questions, comments, and recommendations.
 
@@ -22,28 +22,28 @@ This is a work in progress. Feel free to make send me questions, comments, and r
 1. Learn to think like a programmer, and how to search
 Thinking like a programmer is the most important part part of learning programming. [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it, but it matches my personal programming process below.
 
-1. Understand what the problem is asking or what you want to do (inputs, process, and output)
-2. Make a plan on how you think you can do it. Try to break the problem down into easier to tackle portions
-3. Try your plan and research what the best way to do each individual item is
-4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
+   1. Understand what the problem is asking or what you want to do (inputs, process, and output)
+   2. Make a plan on how you think you can do it. Try to break the problem down into easier to tackle portions
+   3. Try your plan and research what the best way to do each individual item is
+   4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
 
--That’s why no matter what route you take in programming, you’ll learn the skills. Because you use the problem solving mindset. I’ve never read this website but they say the same thing I just did
+   * That’s why no matter what route you take in programming, you’ll learn the skills. Because you use the problem solving mindset. I’ve never read this website but they say the same thing I just did
 
-https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+   * https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
 
--You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
+   * You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
 
--There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
+   * There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
 
--Most of my search results are probably "best ______ Reddit" "best ______ quora"
+   * Most of my search results are probably "best ______ Reddit" "best ______ quora"
 
 2. Be a curious and consistent learner
--you need to develop your problem solving skills. being a good software engineer doesn't mean you know a lot of languages, it means that you are a skilled problem solver. You do this by researching solutions to problems you are facing, developing 
--Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
+   * you need to develop your problem solving skills. being a good software engineer doesn't mean you know a lot of languages, it means that you are a skilled problem solver. You do this by researching solutions to problems you are facing, developing 
+   * Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
 
--DO follow 
+   * DO follow 
 
--DO spend more time "doing" then passively learning how to do something. Usually spending 30% of your time reading/watching and 70% coding
+   * DO spend more time "doing" then passively learning how to do something. Usually spending 30% of your time reading/watching and 70% coding
 Here are the most commonly suggested ways to learn the fundamentals of programming
 
 2. Learn the fundamentals of programming
