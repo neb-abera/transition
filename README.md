@@ -94,10 +94,10 @@ I made these guides during my transition from the Army to Software Development. 
 
    Here are some of my favorite content producers
    
-   [Clement Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) on Youtube. He went from having never coded to getting hired at google in 6 months. He also owns AlgoExpert.
-   Alexander Nguyen on [LinkedIn](https://www.linkedin.com/in/alxngu/) and [Medium](https://alexcancode.medium.com/). He is a talented software engineer that publishes about how to get hired at tech companies
-   freeCodeCamp - Tons of free courses and videos on their [Youtube](https://www.youtube.com/c/Freecodecamp) and [website](https://www.freecodecamp.org/)
-   Alvin Zablan on [Youtube](https://www.youtube.com/c/AlvintheProgrammer). He is my favorite instructor on freeCodeCamp.org and he also owns [structy.net](structy.net)
+   * Clement Mihailescu on [Youtube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g). He went from having never coded to getting hired at google in 6 months. He also owns [AlgoExpert](algoexpert.io).
+   * Alexander Nguyen on [LinkedIn](https://www.linkedin.com/in/alxngu/) and [Medium](https://alexcancode.medium.com/). He is a talented software engineer that publishes about how to get hired at tech companies
+   * freeCodeCamp - Tons of free courses and videos on their [Youtube](https://www.youtube.com/c/Freecodecamp) and [website](https://www.freecodecamp.org/)
+   * Alvin Zablan on [Youtube](https://www.youtube.com/c/AlvintheProgrammer). He is my favorite instructor on freeCodeCamp.org and he also owns [structy.net](structy.net)
 
 ## Additional advice
 
