@@ -3,7 +3,7 @@
 ### <p align="center">[Schedule a time to speak with me](https://calendly.com/nebyou_abera/zoom)</p>
 
 ## Intro
-I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. Please click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress. Feel free to make send me questions, comments, and recommendations.
+I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
 
 1. The timeline on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT) shows everything I learned during my transition, and has helpful links and documents embedded. It answers questions about 
    * the Army transition timeline, things I wish I had known, and recommendations about your transition
