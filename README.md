@@ -23,8 +23,10 @@ I made two guides to distribute the lessons I learned during my transition from 
 1. Learn the fundamentals of programming
 
    There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I'm going to list the best reviewed methods online and my opinion on them. I'm also going to stack them from the ones I'd most recommend to the ones I least recommend
+   
+   [Open Source Society's Intro to Programming and Intro to Computer Science](https://github.com/ossu/computer-science#intro-cs) I like that it teaches 
 
-   Harvard's CS50: Most beginnners will struggle with week 5 and beyond in this course. They also use a variety of languages which detracts from a beginner's ability to learn the concepts and patterns behind the languages being used.
+   [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. Most beginnners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages.
    
    This is the recommended path by the Open Source Society [this Python course](https://github.com/ossu/computer-science#intro-cs), 
 
@@ -32,26 +34,38 @@ I made two guides to distribute the lessons I learned during my transition from 
 
    The most recommended intro to programming courses are 
 
-2. Train coding skills daily
-      You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills. I recommend codewars if you're a beginner. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
-      
-      This is my methodology for training.
-      
-      1. set a clock for 
+2. Include dedicated coding and problem solving training in your schedule
 
-   
+      You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but lacks the structure of codewars and I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills. 
+      
+      I recommend [codewars](https://www.codewars.com/) if you're a beginner. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
+      
+      This is my methodology for training
+      
+         1. set a clock for 20 minutes
+         2. try to solve the problem with no documentatation
+         3. compare my solution to other solutions provided
+         4. if there's a significantly better way to solve the problem then I learn that pattern and redo the problem
+         5. find a different problem and restart this process until I'm done with the training session
 
 2. Take a data structures and algorithms (DSA) course
 
-   I like [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms
+   I think that DSAs should be taught in a seperate course from an intro to programming course. I think people should be comforable with the fundamentals of programming in one language before they give bandwidth to DSA. 
+   
+   I recommend getting [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms.
+   
+   You will probably end up having to search Youtube for DSA videos to really understand some of the topics and how they are implemented in code.
 
-   If you want a follow-up DSA course, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
+   If you want a follow-up DSA text, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
+   
+   If you prefer a dedicated DSA class then I'd look into [structy](structy.net) or [AlgoExpert](algoexpert.io). I haven't tried these websites but I have used both of the free material from their owners.
    
 3. Learn to think like a programmer
+
    Thinking like a programmer is the most important part part of learning to program. That’s why no matter what route you take in programming, you’ll learn the skills of a programmer. That's because memorizing programming lanague syntax does not make you a programmer, applying the problem solving mindset is what makes you a programmer.
    
    My personal methodology is 
-      1. Understand what the problem is asking or what you want to do (inputs, process, and output)
+      1. Read and understand what the problem is asking (inputs, process, and output)
       2. Make a plan on how you think you can do it. Try to break the problem down into easier to tackle portions
       3. Try your plan and research what the best way to do each individual item is
       4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
@@ -63,6 +77,7 @@ I made two guides to distribute the lessons I learned during my transition from 
    https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
 
 4. Learn how to search
+
    You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem solving skill.
 
    There are different ways of using [google search](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) to its full potential. I like to [use google to search Reddit and quora](https://techcrunch.com/2022/09/28/google-search-now-queries-reddit-and-quora-in-response-to-open-ended-questions/) for the answers I'm looking for. Adding "Reddit" or "quora" to your search terms, looking for the most recent posts with the most discussion, will usually filter out the spam. The most upvoted answers are usually the best. The dissenting opinions are also important to understand. 
@@ -70,13 +85,16 @@ I made two guides to distribute the lessons I learned during my transition from 
    Most of my search results on any given day are probably "best ______ Reddit" "best ______ quora"
 
 5. Be a curious and consistent learner
+
    Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums etc.
 
    AVOID PASSIVE "LEARNING" - This is one of the most common mistakes people make when they try to learn programming. You should spend more time "doing" then passively learning how to do something. Usually spending <=30% of your time reading/watching and >=70% coding
    
    Here are two videos on mistakes beginners make. The first is from [Aaron Jack](https://www.youtube.com/watch?v=T7aSI-E1fCE) and the second is a video from [William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc) on competitive programming but the principles still apply.
 
-6. Continue to develop your problem solving skills, and study follow on topics that interest you or that you want to work in. I recommend that you follow roadmaps like [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
+6. Continue to develop your problem solving skills, and study follow on topics that interest you or that you want to work in. 
+
+   I recommend that you follow roadmaps like [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
 
 7. Follow talented influencers and resources
 
