@@ -26,32 +26,30 @@ I made these guides during my transition from the Army to Software Development. 
    
    * [Open Source Society's Intro to Programming and Intro to Computer Science](https://github.com/ossu/computer-science#intro-cs) I think this is a good program and what I would recommend to people with no experience. It does has a beginner friendly structure, is taught in Python, and has a good roadmap for future topics. Make sure you do the exercuses, problem sets, etc. It's easy to think you can learn from just watching the videos.. you can't. You learn by doing things repeatedly
    
-   * [The prep course from Hack Reactor](https://www.hackreactor.com/prep-programs): This is what I used. This is a good alternative to the first course. I think courses from bootcamps are valuable because these comapnies know how to teach beginners to become software developers. They do what they know works. I also believe that the repitition they provide is essential to the learning process. This program forces you to get the repititions in. There is some instruction, you try stuff on your own, and then there's a video to watch if you get lost and need help. It is taught in JavaScript so it's only useful if you'd like to learn or work in web development.
+   * [The prep course from Hack Reactor](https://www.hackreactor.com/prep-programs): This is what I used. This is a good alternative to the first course. I think prep courses from bootcamps are valuable because these comapnies know how to teach beginners to become software developers. They do what they know works. I also believe that the repitition they provide is essential to the learning process. This program forces you to get the repititions in. There is some instruction, you try stuff on your own, and then there's a video to watch if you get lost and need help. It is taught in JavaScript so it's only useful if you'd like to learn or work in web development.
 
    * [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. You should pick this if you're ambitious, or have prior experience. I don't get how it's so highly regarded for beginners on reddit. Most beginnners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. It's like a buffet of topics and I'm not sure if most people will leave the course confident in any of the languages they cover. However, it has the best instruction, resources, and subjects if you are a dedicated student.
 
-2. Include dedicated coding and problem solving training in your schedule (daily repitition is best)
+2. Include dedicated coding and problem solving training in your schedule (daily repitition is best) 
+      
+   I recommend [codewars](https://www.codewars.com/) if you're a beginner. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
+      
+   I recommend setting aside 5x60 minutes sessions a week to this. This is my methodology for training
+      
+      1. set a clock for 20 minutes
+      2. try to solve the problem with no documentatation
+      3. compare my solution to other solutions provided
+      4. if there's a significantly better way to solve the problem then I learn that pattern and redo the problem
+      5. find a different problem and restart this process until I'm done with the training session
 
-      You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but lacks the structure of codewars and I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills. 
-      
-      I recommend [codewars](https://www.codewars.com/) if you're a beginner. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
-      
-      I recommend setting aside 5x60 minutes sessions a week to this. This is my methodology for training
-      
-         1. set a clock for 20 minutes
-         2. try to solve the problem with no documentatation
-         3. compare my solution to other solutions provided
-         4. if there's a significantly better way to solve the problem then I learn that pattern and redo the problem
-         5. find a different problem and restart this process until I'm done with the training session
+   You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but lacks the structure of codewars and I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills.
 
 2. Take a data structures and algorithms (DSA) course
 
+   I recommend getting [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms. If you don't undedrstand a topic initially, Youtube for DSA videos to see different styles of teaching DSAs and how they are implemented in code.
+   
    I think that DSAs should be taught in a seperate course from an intro to programming course. I think people should be comforable with the fundamentals of programming in one language before they give bandwidth to DSA. 
-   
-   I recommend getting [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms.
-   
-   If you don't undedrstand a topic initially, Youtube for DSA videos to see different styles of teaching DSAs and how they are implemented in code.
-
+  
    If you want a follow-up DSA text, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
    
    If you prefer a dedicated DSA class then I recommend looking into [structy](structy.net) or [AlgoExpert](algoexpert.io). I haven't tried these websites but I have used both of the free material from their owners.
@@ -102,6 +100,7 @@ I made these guides during my transition from the Army to Software Development. 
    Alvin Zablan on [Youtube](https://www.youtube.com/c/AlvintheProgrammer). He is my favorite instructor on freeCodeCamp.org and he also owns [structy.net](structy.net)
 
 ## Additional advice
+
    There's really no best way to learn software development. It’s a wide field, with tons of sub-fields, and lot of information. Here are some important tips I’ve found
    1. Staying organized: I had to start journaling key takeaways so that I don’t get lost, storing stuff in bookmarks, using outlook calendar etc
    2. Making and sticking to a plan: it’s easy to get distracted so I found that I need accountability to stay on track. I got an agenda and forced myself to follow a daily routine, turned on “screen time” and notification limits on my phone and computer, signed up for classes that have structure, found friends online and set appointments so I had a deadline to force myself to get better by. You have your kid so that’s a good accountability buddy.
@@ -132,9 +131,24 @@ There aren’t really any certs worth their weight in software engineering. In I
 
 https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
+## How do I get a technical job in the tech industry as a veteran or service member
+
+   I recommend service members or veterans use [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding bootcamps. They will upskill you and have connections on technical job placement. Service members and veterans should also apply for [BreakLine](https://breakline.org/) after they graduate. This is the best way to get a tech job.
+   
+   Remember that depending on the company, you will likely have to pass technical assessments to get a job offer.
+   
+## How do I pass a technical assessment
+
+   This level of preparation is probably overkill for most roles at most companies. However, it's good to expose yourself to what the top level companies expect for technical interviews
+   
+   * An article from Alex Nguyen on the resources he uses to prepare for technical interviews [here](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e) and 
+   * An article from Alex Nguyen on his system for solving problems in technical interviews [here](https://alexcancode.medium.com/the-coding-interview-formula-that-will-get-you-any-faang-maang-offer-45e71a3681e7) are a great guide.
+   * A video from Clement Mihailescu on technical interviews [here](https://www.youtube.com/watch?v=-QxUp8MwbWw)
+   * A video from Clement Mihailescu on the most important concepts for technical interviews [here](https://www.youtube.com/watch?v=Ge0Udbws1kc)
+   
 ## What programming languages should you learn
    
-   Once you learn how to program you’ll find that you need to learn more programming languages because you need better suited tools for what task you're trying to accomplish. Just remember that specialization is more important, will get you better paid, and will make you a better program. You should have one or two languages you are an expert at, and then one or two that you are familiar with. I recommend learning the following languages so that you’re well rounded.
+   Once you learn your first programming language, you’ll find that you need to learn more programming languages because you need better suited tools for what task you're trying to accomplish. Just remember that specialization is more important, will get you better paid, and will make you a better program. You should have one or two languages you are an expert at, and then one or two that you are familiar with. I recommend learning the following languages so that you’re well rounded.
 
 1. Python: a high level general purpose language.
    
