@@ -22,13 +22,13 @@ I made these guides during my transition from the Army to Software Development. 
 
 1. Learn the fundamentals of programming
 
-   There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I'm going to list some 
+   There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I'm going to list three that I recommend for you to chose from
    
-   [Open Source Society's Intro to Programming and Intro to Computer Science](https://github.com/ossu/computer-science#intro-cs) I think this is a good program and what I would recommend to people with no experience. It does has a beginner friendly structure, is taught in Python, and has a good roadmap for future topics. Make sure you do the exercuses, problem sets, etc. It's easy to think you can learn from just watching the videos.. you can't. You learn by doing things repeatedly
+   * [Open Source Society's Intro to Programming and Intro to Computer Science](https://github.com/ossu/computer-science#intro-cs) I think this is a good program and what I would recommend to people with no experience. It does has a beginner friendly structure, is taught in Python, and has a good roadmap for future topics. Make sure you do the exercuses, problem sets, etc. It's easy to think you can learn from just watching the videos.. you can't. You learn by doing things repeatedly
    
-   I learned from doing the [prep course from Hack Reactor](https://www.hackreactor.com/prep-programs). This is a good alternative to the first course. I think courses from bootcamps are valuable because these comapnies know how to teach beginners to become software developers. They do what they know works. I also believe that the repitition they provide is essential to the learning process. This program forces you to get the repititions in. There is some instruction, you try stuff on your own, and then there's a video to watch if you get lost and need help.
+   * [The prep course from Hack Reactor](https://www.hackreactor.com/prep-programs): This is what I used. This is a good alternative to the first course. I think courses from bootcamps are valuable because these comapnies know how to teach beginners to become software developers. They do what they know works. I also believe that the repitition they provide is essential to the learning process. This program forces you to get the repititions in. There is some instruction, you try stuff on your own, and then there's a video to watch if you get lost and need help. It is taught in JavaScript so it's only useful if you'd like to learn or work in web development.
 
-   [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. I don't get how it's so highly regarded on reddit. Most beginnners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. However, it has the best instruction, resources, and subjects if you can make it through the course.
+   * [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. You should pick this if you're ambitious, or have prior experience. I don't get how it's so highly regarded for beginners on reddit. Most beginnners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. It's like a buffet of topics and I'm not sure if most people will leave the course confident in any of the languages they cover. However, it has the best instruction, resources, and subjects if you are a dedicated student.
 
 2. Include dedicated coding and problem solving training in your schedule (daily repitition is best)
 
@@ -50,7 +50,7 @@ I made these guides during my transition from the Army to Software Development. 
    
    I recommend getting [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms.
    
-   You will probably end up having to search Youtube for DSA videos to really understand some of the topics and how they are implemented in code.
+   If you don't undedrstand a topic initially, Youtube for DSA videos to see different styles of teaching DSAs and how they are implemented in code.
 
    If you want a follow-up DSA text, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
    
