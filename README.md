@@ -18,7 +18,7 @@ I made these guides during my transition from the Army to Software Development. 
 
    Here is a good intro video from [Andy Sterkowitz](https://www.youtube.com/watch?v=ueXjGMrmn8k) on some of the topics I will cover below.
 
-## My recommendations on how to learn programming
+## My recommendation on how to learn to program
 
 1. Learn the fundamentals of programming
 
