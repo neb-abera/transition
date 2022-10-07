@@ -137,7 +137,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 ## How do I get a technical job in the tech industry as a veteran or service member
 
-   I recommend that service members or veterans use [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding bootcamps. They will upskill you and have connections on technical job placement. Service members and veterans should also apply for [BreakLine](https://breakline.org/) after they graduate. BreakLine's goal is to help its applicants get into high paying tech roles. This is the best way to get a tech job.
+   I recommend that service members or veterans use [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding bootcamps. They will upskill you and have connections on technical job placement. Service members and veterans should also apply for [BreakLine](https://breakline.org/). BreakLine's purpose is to help veterans, minorities, and women get into high paying tech roles. This is the best way to get a tech job.
    
    Remember that depending on the company, you will likely have to pass technical assessments to get a job offer.
    
