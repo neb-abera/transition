@@ -1,4 +1,4 @@
-# <p align="center">[Everything I learned transitioning from the Army to Software Development](https://www.sutori.com/en/story/copy-of-transition-timeline--NaRaPpvMJY1r6chTGJ8Tsay7)</p>
+# <p align="center">[Everything I learned transitioning from the Army to Software Development](https://www.sutori.com/en/story/the-military-transition-guide-i-wish-i-had--neKEiwGvCVS7veAei58G9TUT)</p>
 ### <p align="center">[Contact me at my LinkedIn](https://www.linkedin.com/in/nebyou-abera/)</p>
 ### <p align="center">[Schedule a time to speak with me](https://calendly.com/nebyou_abera/zoom)</p>
 
