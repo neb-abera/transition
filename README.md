@@ -30,7 +30,7 @@ I made these guides during my transition from the Army to Software Development. 
 
    * [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. You should pick this if you're ambitious, or have prior experience. I don't get how it's so highly regarded for beginners on reddit. Most beginnners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. It's like a buffet of topics and I'm not sure if most people will leave the course confident in any of the languages they cover. However, it has the best instruction, resources, and subjects if you are a dedicated student.
 
-   * If you have small kids then I recommend getting them to try [codecombat](https://codecombat.com/) and [scratch](https://scratch.mit.edu/). The tough part of teaching kids is keeping them engaged and focused on one task for a set period of time. These websites try to make the learning process fun for kids. So, I think they are worth a shot. 
+   * If you have small kids then I recommend getting them to try [codecombat](https://codecombat.com/) and [scratch](https://scratch.mit.edu/). You can graduate them to the recommendations above when they're ready. The tough part of teaching kids is keeping them engaged and focused on one task for a set period of time. These websites try to make the learning process fun for kids. So, I think they are worth a shot. 
 
 2. Include dedicated coding and problem solving training in your schedule (daily repitition is best) 
       
