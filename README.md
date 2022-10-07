@@ -156,7 +156,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    
    Cons: it is a high level, interpreted, dynamically typed language so you’ll need another language if you want to work in high performance, embedded, systems programming etc. It is a “slow” language when compared to languages like “C++”
 
-2. JavaScript: the dominant language of web development. 
+2. JavaScript: the dominant language of web development (only if you're interested in web development or a coding bootcamp)
    
    Web development is the easiest way to get into high paying software engineer jobs. Cons: it isn’t really useful for anything else. You can use frameworks to create applications using Javascript but they will be slower/worse than their native counterparts
 
