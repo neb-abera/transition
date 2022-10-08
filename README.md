@@ -7,8 +7,9 @@
 2. [My recommendation on how to learn to program](https://github.com/nebyou-abera/transition#my-recommendation-on-how-to-learn-to-program)
 3. [Additional advice](https://github.com/nebyou-abera/transition#additional-advice)
 4. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber)](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
-5. [How do to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
-6. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
+5. [How do I get a technical job in the tech industry as a veteron or SM](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
+6. [How do to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
+7. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
 
 ## Intro
 I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
