@@ -2,6 +2,14 @@
 ### <p align="center">[Contact me at my LinkedIn](https://www.linkedin.com/in/nebyou-abera/)</p>
 ### <p align="center">[Schedule a time to speak with me](https://calendly.com/nebyou_abera/zoom)</p>
 
+## Table of contents
+1. [Intro](https://github.com/nebyou-abera/transition#intro)
+2. [My recommendation on how to learn to program](https://github.com/nebyou-abera/transition#my-recommendation-on-how-to-learn-to-program)
+3. [Additional advice](https://github.com/nebyou-abera/transition#additional-advice)
+4. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber)](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
+5. [How do to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
+6. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
+
 ## Intro
 I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
 
@@ -141,7 +149,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    
    Remember that depending on the company, you will likely have to pass technical assessments to get a job offer.
    
-## How do I pass a technical assessment
+## How do to pass a technical assessment or interview
 
    This level of preparation is probably overkill for most roles at most companies. However, it's good to expose yourself to what the top level companies expect for technical interviews
    
