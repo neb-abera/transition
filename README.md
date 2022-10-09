@@ -10,6 +10,7 @@
 5. [How do I get a technical job in the tech industry as a veteran or SM](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
 6. [How do to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
 7. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
+8. [What learning resources have I personally purchased or used](https://github.com/nebyou-abera/transition/blob/main/README.md#what-resources-have-i-personally-purchased-or-used)
 
 ## Intro
 I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
@@ -187,7 +188,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
    https://www.youtube.com/watch?v=9U684GbFST4
 
-## What resources have I personally purchased or used
+## What learning resources have I personally purchased or used
 
 ### What Python resources have I personally purchased or used
 
