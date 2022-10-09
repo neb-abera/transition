@@ -50,10 +50,11 @@ I made these guides during my transition from the Army to Software Development. 
    I recommend setting aside 5x60 minutes sessions a week to this. This is my methodology for training
       
       1. set a clock for 20 minutes
-      2. try to solve the problem with no documentatation (if you're a beginner and don't know the standard methods then please use documentation)
+      2. try to solve the problem with limited use of documentatation
       3. compare my solution to other solutions provided
-      4. if there's a significantly better way to solve the problem then I learn that pattern and redo the problem
-      5. find a different problem and restart this process until I'm done with the training session
+      4. if there's a significantly better way to solve the problem then I learn that pattern.
+      5. Redo the problem until I can do it with no documentation or outside assistance
+      6. find a different problem and restart this process until I'm done with the training session
 
    You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but lacks the structure of codewars and I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills.
 
