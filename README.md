@@ -106,9 +106,7 @@ I made these guides during my transition from the Army to Software Development. 
 
    [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it.
    
-    I had never read this website, until I made this document, but they say the same thing I just did
-
-   https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+    I had never read [this website](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/), until I made this document, but they say the same thing I just did
 
 4. Learn how to search
 
