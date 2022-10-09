@@ -5,7 +5,7 @@
 ## Table of contents
 1. [Intro](https://github.com/nebyou-abera/transition#intro)
 2. [My recommendation on how to learn to program](https://github.com/nebyou-abera/transition#my-recommendation-on-how-to-learn-to-program)
-   * [How can kids learn to program](https://github.com/nebyou-abera/transition#how-can-small-kids-learn-to-program)
+   * [How can kids learn to program](https://github.com/nebyou-abera/transition#how-can-kids-learn-to-program)
    * [How do you set your computer up for programming](https://github.com/nebyou-abera/transition#how-do-you-set-your-computer-up-for-programming)
 3. [Additional advice](https://github.com/nebyou-abera/transition#additional-advice)
 4. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
