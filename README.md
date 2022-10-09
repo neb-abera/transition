@@ -65,8 +65,6 @@ I made these guides during my transition from the Army to Software Development. 
   
    If you want a follow-up DSA text, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
    
-   [AlgoExpert](algoexpert.io) may help with specific problems from technical interviews. However, I have a dedicated section below on how to prepare for technical interviews.
-   
 3. Learn to think like a programmer
 
    Thinking like a programmer is the most important part part of learning to program. That’s why no matter what route you take in programming, you’ll learn the skills of a programmer. That's because memorizing programming lanague syntax does not make you a programmer, applying the problem solving mindset is what makes you a programmer.
@@ -158,6 +156,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    * An article from Alex Nguyen on his system for solving problems in technical interviews [here](https://alexcancode.medium.com/the-coding-interview-formula-that-will-get-you-any-faang-maang-offer-45e71a3681e7) are a great guide.
    * A video from Clement Mihailescu on technical interviews [here](https://www.youtube.com/watch?v=-QxUp8MwbWw)
    * A video from Clement Mihailescu on the most important concepts for technical interviews [here](https://www.youtube.com/watch?v=Ge0Udbws1kc)
+   * [AlgoExpert](algoexpert.io) may help with DSA problems prep for technical interviews. I haven't tried it yet so I can't give my personal recommendation for it. I've heard it is a great product but lacks in some of the more advanced topics. I'll give it a try when I get ready for technical interviews in about 6-12 months.
    
 ## What programming languages should you learn
    
