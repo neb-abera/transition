@@ -48,9 +48,13 @@ I made these guides during my transition from the Army to Software Development. 
 
    * [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. You should pick this if you're ambitious, or have prior experience. I don't get how it's so highly regarded for beginners on reddit. Most beginnners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. It's like a buffet of topics and I'm not sure if most people will leave the course confident in any of the languages they cover. However, it has the best instruction, resources, and subjects if you are a dedicated student.
 
-   ### How can small kids learn to program
+   ### How can kids learn to program
    
-   If you have small kids then I recommend getting them to try [codecombat](https://codecombat.com/) and [scratch](https://scratch.mit.edu/). You can graduate them to the recommendations above when they're ready. The tough part of teaching kids is keeping them engaged and focused on one task for a set period of time. These websites try to make the learning process fun for kids. So, I think they are worth a shot. 
+   If you have smaller kids then I recommend getting them to try to websites below. You can graduate them to the recommendations above when they've shown interest and seem ready. The tough part of teaching kids is keeping them engaged and focused on one task for a set period of time. These websites try to make the learning process fun for kids. So, I think they are worth a shot. But, they don't teach actual coding so they will eventually have to switch to something like the above recommendations. Programming involves sitting at a computer problem solving for extended periods of time. There's really no way around that and some kids may not be into that. Teenagers may be ready to just jump into to the recommendations above, but you can have them try the suggestions below to guage their interest.
+   
+   * [codecombat](https://codecombat.com/) a game that includes coding. It seems like a fun way to get kids interested in programming. It's free but it may bug you to upgrade periodically
+   * [scratch](https://scratch.mit.edu/) this is MIT's program to appeal to kids. They can learn to program by dragging and dropping stuff to make stories and programs. It isn't as gameified as codecombat but still seems like it would be fun for kids
+   * [PyGame](https://www.pygame.org/news) kids, teens, or even adults, that are interested in making simpler video games would have fun with this. This one requires more setup though so you'll probably have to help them out in the early stages with this
 
 2. Include dedicated coding and problem solving training in your schedule (daily repitition is best) 
       
