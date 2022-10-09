@@ -25,7 +25,7 @@ I made these guides during my transition from the Army to Software Development. 
 
 1. The timeline on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT) shows everything I learned during my transition, and has helpful links and documents embedded. It answers questions about 
    * the Army transition timeline, things I wish I had known, and recommendations about your transition
-   * general career advice like how to learn learn business terminology
+   * general career advice like how to adjust to the business world and learn to speak their language
    * resume help
    * networking and interview tips
 
