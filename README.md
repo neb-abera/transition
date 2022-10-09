@@ -47,7 +47,9 @@ I made these guides during my transition from the Army to Software Development. 
 2. Include dedicated coding and problem solving training in your schedule (daily repitition is best) 
       
    I recommend [codewars](https://www.codewars.com/) to all beginners for daily practice. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
-      
+   
+   Practicing a little bit everyday is better than practicing a lot not very often.
+   
    I recommend setting aside 5x60 minutes sessions a week to this. This is my methodology for training
       
       1. set a clock for 20 minutes
