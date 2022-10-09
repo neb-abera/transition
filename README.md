@@ -59,13 +59,13 @@ I made these guides during my transition from the Army to Software Development. 
 
 2. Take a data structures and algorithms (DSA) course
 
-   I recommend getting [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava. It is illustrated, programmed in Python, and intuitative. It is also a kid friendly way to teach algorithms. If you don't undedrstand a topic initially, Youtube for DSA videos to see different styles of teaching DSAs and how they are implemented in code.
+   I recommend getting [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava and pairing that with [structy](structy.net). The book is illustrated, programmed in Python, and intuitative. Structy provides video instruction and an environment to code DSA in Python, JavaScript, and C++.
    
    I think that DSAs should be taught in a seperate course from an intro to programming course. I think people should be comforable with the fundamentals of programming in one language before they give bandwidth to DSA. 
   
    If you want a follow-up DSA text, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
    
-   If you prefer a dedicated DSA class then I recommend looking into [structy](structy.net) or [AlgoExpert](algoexpert.io). I haven't tried these websites but I have used both of the free material from their owners.
+   [AlgoExpert](algoexpert.io) may help with specific problems from technical interviews. However, I have a dedicated section below on how to prepare for technical interviews.
    
 3. Learn to think like a programmer
 
