@@ -139,16 +139,13 @@ I made these guides during my transition from the Army to Software Development. 
    * freeCodeCamp - Tons of free courses and videos on their [Youtube](https://www.youtube.com/c/Freecodecamp) and [website](https://www.freecodecamp.org/)
    * Alvin Zablan on [Youtube](https://www.youtube.com/c/AlvintheProgrammer). He is my favorite instructor on freeCodeCamp.org and he also owns [structy.net](structy.net)
 
-## Additional advice
+## Key skills to learn programming
 
    There's really no best way to learn software development. It’s a wide field, with tons of sub-fields, and lot of information. Here are some important tips I’ve found
    1. Staying organized: I had to start journaling key takeaways so that I don’t get lost, storing stuff in bookmarks, using outlook calendar etc
    2. Making and sticking to a plan: it’s easy to get distracted so I found that I need accountability to stay on track. I got an agenda and forced myself to follow a daily routine, turned on “screen time” and notification limits on my phone and computer, signed up for classes that have structure, found friends online and set appointments so I had a deadline to force myself to get better by. You have your kid so that’s a good accountability buddy.
-   3. Learning the best way I learn: I’ve found that I learn best from textbooks and using code grind websites to solve problems (like codewars or leetcode). If you’re going to use code grind websites set a 20minute timer and try to solve the problem with no help besides looking at documentation. Then look at the solution afterwards and look up anything I didn’t know. I’ve found that I learn best by working through a textbook and then YouTubing anything I don’t understand right away. I buy textbooks because I like knowing the “why” behind stuff and I can bookmark it and reference it later. The danger with videos/books is that you can think you “know” how to do something by watching them. Don’t fall into that trap
+   3. Learning the best way you learn: I’ve found that I learn best from textbooks and using code grind websites to solve problems (like codewars or leetcode). If you’re going to use code grind websites set a 20minute timer and try to solve the problem with no help besides looking at documentation. Then look at the solution afterwards and look up anything I didn’t know. I’ve found that I learn best by working through a textbook and then YouTubing anything I don’t understand right away. I buy textbooks because I like knowing the “why” behind stuff and I can bookmark it and reference it later. The danger with videos/books is that you can think you “know” how to do something by watching them. Don’t fall into that trap
 
-   You then need to figure out what field of computer science you want to work in. This is important because there are countless sub-fields, programming tools/languages, companies etc. I recommend looking up the various fields and finding out what interests you. In the picture below there are countless areas of specialization in each job title.
-
-   https://lensdump.com/i/iHcJHP
 
 ## My subjective opinion on working in three popular areas in tech (software development, IT, cyber)
 
@@ -158,12 +155,21 @@ I made these guides during my transition from the Army to Software Development. 
 
 3. Cyber: your job is to protect the companies network from infiltration, or to break into the company to test their defense (blue team vs red team). Usually higher paying than IT, since it’s kind of a sub specialty that requires extra knowledge. Not every company has cyber teams. Some companies don’t value cyber until they are attacked. A growing field that is getting humongous and there’s a war for talent
 
-For jobs in computer science fields, the most important things in order of importance are
+   Here is a [general career roadmap](https://lensdump.com/i/iHcJHP) in the industry
+
+   You'll eventually need to figure out what field of computer science you want to work in. This is important because specialization is what gets you paid but there are countless sub-fields, programming tools/languages, companies etc. I recommend looking up the various fields and finding out what interests you. In the picture below there are countless areas of specialization in each job title.
+   
+   If you don't know what to pick, you can just apply to a wide breadth of jobs and take whatever you get. You can worry about specialization after you figure out what you do and don't like at your first job.
+
+## Do certifications, degrees, or skills matter for getting a job in the industry
+
+For jobs in computer science fields, the most important things are
    -relevant software engineering experiencing using the software stack they are hiring for
-   -years of experience doing software engineering
+   -years of experience in that specific field
+   -years of experience in a computer science field in general
    -passing the hiring assessments (usually they use sites like “leetcode” or their own assessment)
 
-You don't need a degree in computer science, IT, or cyber to get into those fields. The degree will help you get your foot in the door, make you more competitive than your peers, will probably give you skills and has taught you “how to learn” and how you learn best. Getting a degree is great and makes you more competitive, but isn’t a requirement. Once you learn how to program, probably 3 or so months, it’ll take you about 3-6 or so months to learn data structures and algorithms well enough to pass “hard” level problems on leetcode which is what the MAANG companies require. If you want a regular job you won’t even need to master data structure and algorithms. You could be employable after learning how to program.
+You don't need a degree in computer science, IT, or cyber to get into those fields. The degree, and some certs, will be most important when you're looking for your first role in the industry. The degree will help you get your foot in the door, make you more competitive than your peers, will probably give you relevant skills and has taught you “how to learn” and how you learn best. Getting a degree is great and makes you more competitive, but isn’t a requirement. Once you learn how to program, probably 3 or so months, it’ll take you about 3-6 or so months to learn data structures and algorithms well enough to pass “hard” level problems on leetcode which is what the MAANG companies require. If you want a regular job you won’t even need to master data structure and algorithms. You could be employable after learning how to program.
 
 The key thing to know is that in these fields what pays is experience. The better you’re at your job, no matter what field, the more you’ll make. The top level IT guys make just as much if not more than software engineers. The important thing is to pick something that interests you, or that you could stand doing, and the money will come.
 
