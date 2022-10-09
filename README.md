@@ -54,7 +54,7 @@ I made these guides during my transition from the Army to Software Development. 
 
 2. Include dedicated coding and problem solving training in your schedule (daily repitition is best) 
       
-   I recommend [codewars](https://www.codewars.com/) to all beginners for daily practice. They’ll give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
+   I recommend [codewars](https://www.codewars.com/) to all beginners for daily practice. It's a free website that will give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
    
    Practicing a little bit everyday is better than practicing a lot not very often.
    
@@ -67,11 +67,14 @@ I made these guides during my transition from the Army to Software Development. 
       5. Redo the problem until I can do it with no documentation or outside assistance
       6. find a different problem and restart this process until I'm done with the training session
 
-   You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but lacks the structure of codewars and I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills.
+   You need to use sites to train your problem solving and programming language specific skills.
+   * [codewars](https://www.codewars.com/) great for beginners to rank up and is free
+   * [Edabit](https://edabit.com/) has a lot of good problems to practice, but lacks the structure of codewars and I used up the free trial in like two days), and
+   * [LeetCode](https://leetcode.com/) you'll need to finish a DSA course before you'll be able to solve most of the problems. It's free and I only recommend getting a suscription after you've done a DSA course AND if you're REALLY interested in knowing what companies focus on specific DSA problems.
    
    ### How do you set your computer up for programming
    
-   Use [repl.it](repl.it) to practice in if you're intimidated by setting up a text editor or integrated development environment.
+   Use [repl.it](repl.it) to practice programming in if you're intimidated by setting up a text editor or integrated development environment
    
    The intro material you choose will give you instructions on what they recommend to do for set-up. Here is a list of [common text editors and integrated development environments (IDEs)](https://www.reddit.com/r/learnprogramming/wiki/tools)
    
