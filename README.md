@@ -33,7 +33,7 @@ I made these guides during my transition from the Army to Software Development. 
 
    There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. I'm going to list three that I recommend for you to chose from
    
-   * [Open Source Society's Intro to Programming and Intro to Computer Science](https://github.com/ossu/computer-science#intro-cs) I think this is a good program and what I would recommend to people with no experience. It has a beginner friendly structure, is taught in Python, and has a good roadmap for future topics. Make sure you do the exercuses, problem sets, etc. It's easy to think you can learn from just watching the videos.. you can't. You learn by doing things repeatedly
+   * [Open Source Society's Intro to Programming and Intro to Computer Science](https://github.com/ossu/computer-science#intro-cs) I think this is a good program and what I would recommend to people with no programming experience. It has a beginner friendly structure, is taught in Python, and has a good roadmap for future topics. Make sure you do the exercuses, problem sets, etc. It's easy to think you can learn from just watching the videos.. you can't. You learn by doing things repeatedly
    
    * [The prep course from Hack Reactor](https://www.hackreactor.com/prep-programs): This is what I used. This is a good alternative to the first course. I think prep courses from bootcamps are valuable because these comapnies know how to teach beginners to become software developers. They do what they know works. I also believe that the repitition they provide is essential to the learning process. This program forces you to get the repititions in. There is some instruction, you try stuff on your own, and then there's a video to watch if you get lost and need help. It is taught in JavaScript so it's only useful if you'd like to learn or work in web development.
 
@@ -57,6 +57,14 @@ I made these guides during my transition from the Army to Software Development. 
       6. find a different problem and restart this process until I'm done with the training session
 
    You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but lacks the structure of codewars and I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills.
+   
+   ### How do I set my computer up for programming
+   
+   Use [repl.it](repl.it) to practice in if you're intimidated by setting up a text editor or integrated development environment.
+   
+   The intro material you choose will give you instructions on what they recommend to do for set-up. Here is a list of [common text editors and integrated development environments (IDEs)](https://www.reddit.com/r/learnprogramming/wiki/tools)
+   
+   I like to use [Visual Studio Code](https://code.visualstudio.com/) with a whole host of extensions such as [these](https://www.google.com/search?q=visual+studio+code+extensions+reddit&sxsrf=ALiCzsZjFzulwX0oGGxnimjVpOUIIj0ErA%3A1665338511638&ei=jwxDY8KdJsyh5NoPubiF4A8&ved=0ahUKEwiCoaqz3dP6AhXMEFkFHTlcAfwQ4dUDCA4&uact=5&oq=visual+studio+code+extensions+reddit&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgM6CggAEEcQ1gQQsAM6BwgAELADEEM6DQguEMcBENEDELADEEM6DQgAEOQCENYEELADGAE6BAgAEENKBAhNGAFKBAhBGABKBAhGGAFQ3gpYihhggRloAXABeACAAV-IAbAEkgEBN5gBAKABAcgBEcABAdoBBggBEAEYCQ&sclient=gws-wiz)
 
 2. Take a data structures and algorithms (DSA) course
 
@@ -178,3 +186,51 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    You need a more “robust” or “heavy duty” programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point you’ll have already learned two programming languages so picking up additional ones will be much easier for you
 
    https://www.youtube.com/watch?v=9U684GbFST4
+
+## What resources have I personally purchased or used
+
+### What Python resources have I personally purchased or used
+
+   Go to [pythonbooks](https://pythonbooks.org/for-programming-beginners/) to see a breakdown of highly rated books by skill level and topic
+
+   * [Learning Python, 5th Edition](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) I love a good textbook. This is no longer updated though
+   * [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) Their method is to teach you the basics quickly and then throw you into building projects. I do agree that forcing people to build stuff will make them figure out stuff on their own.  However, I like the other products more for my way of learning. I come back to this when I want to learn useful skills and projects
+   * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) I haven't gotten to this yet. It came highly recommended so I can't wait to tackle it after I graduate from Hack Reactor
+
+### What C++ resources have I personally purchased or used
+
+   * [Programming: Principles and Practice using C++ (2nd Edition)](https://www.amazon.com/gp/product/0321992784/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) This is the first book I got after I completed the prep course for a coding bootcamp. I still haven't finished this book so I can't move on to the more advanced books on my C++ list
+   * [The C++ Programming Language (4th Edition)](https://www.amazon.com/gp/product/0321958322/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+   * [Effective C++](https://www.amazon.com/gp/product/0321334876/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+   * [Effective Modern C++](https://www.amazon.com/gp/product/1491903996/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+### What data structures and algorithms resources have I personally purchased or used
+
+   * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) My introduction to DSA
+   * [structy](structy.net) The best way I've found to practice DSA
+   * [Intro to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_5?crid=3VWUPSM6S9CFJ&keywords=algorithms&qid=1665340606&qu=eyJxc2MiOiI1LjAyIiwicXNhIjoiNC42NiIsInFzcCI6IjQuOTcifQ%3D%3D&sprefix=algorithms%2Caps%2C111&sr=8-5) What I'll use as a reference once I'm done with structy and Grokking Algorithms
+
+### What technical interview resources have I personally purchased or used
+
+   * Elements of Programming Interviews in [Python](https://www.amazon.com/dp/1537713949/?coliid=I3MPRC82SZIL8X&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it) and [C++](https://www.amazon.com/dp/1479274836/?coliid=I2GHGD8ZX3UV0H&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it)
+   * [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/?coliid=ICZLURMSLNBNY&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it)
+
+## What computer science related books have I personally purchased or read for fun
+
+   * [Algorithms to Live By](https://www.amazon.com/dp/1250118360?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [Sandworm](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1665341427&sr=8-1)
+   * [How Not to be Wrong](https://www.amazon.com/dp/1594205221?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [Hack your Bureaucracy](https://www.amazon.com/dp/0306827751?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+## What other career resources have I personally purchased or used
+
+   * [The Ten Day MBA](https://www.amazon.com/gp/product/0062199579/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [The Visual MBA](https://www.amazon.com/gp/product/035834364X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [The Personal MBA](https://www.amazon.com/gp/product/0525543023/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+   * [The Phoenix Project](https://www.amazon.com/dp/0988262509?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [The Sales Engineer Manager's Handbook](https://www.amazon.com/dp/B087FFMMBW?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [Selling Above and Below the Line](https://www.amazon.com/dp/0814434835?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [The 20-Minute Networking Meeting](https://www.amazon.com/dp/0985910690?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [Mission Transition](https://www.amazon.com/dp/1400214750?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [What Color is Your Parachute](https://www.amazon.com/dp/1984860348?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [Designing Your Life](https://www.amazon.com/dp/1101875321?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [So Good They Can't Ignore You](https://www.amazon.com/dp/0349415862?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
