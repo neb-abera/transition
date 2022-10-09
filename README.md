@@ -7,7 +7,7 @@
 2. [My recommendation on how to learn to program](https://github.com/nebyou-abera/transition#my-recommendation-on-how-to-learn-to-program)
    * [How can kids learn to program](https://github.com/nebyou-abera/transition#how-can-kids-learn-to-program)
    * [How do you set your computer up for programming](https://github.com/nebyou-abera/transition#how-do-you-set-your-computer-up-for-programming)
-3. [Additional advice](https://github.com/nebyou-abera/transition#additional-advice)
+3. [How to stay focused on learning to program](https://github.com/nebyou-abera/transition#key-skills-to-learn-programming)
 4. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
 5. [How do you get a technical job in the tech industry as a veteran or SM](https://github.com/nebyou-abera/transition#how-do-you-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
 6. [How do you train to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-you-train-to-pass-a-technical-assessment-or-interview)
@@ -137,7 +137,7 @@ I made these guides during my transition from the Army to Software Development. 
    * freeCodeCamp - Tons of free courses and videos on their [Youtube](https://www.youtube.com/c/Freecodecamp) and [website](https://www.freecodecamp.org/)
    * Alvin Zablan on [Youtube](https://www.youtube.com/c/AlvintheProgrammer). He is my favorite instructor on freeCodeCamp.org and he also owns [structy.net](structy.net)
 
-## Key skills to learn programming
+## How to stay focused on learning to program
 
    There's really no best way to learn software development. It’s a wide field, with tons of sub-fields, and lot of information. Here are some important tips I’ve found
    1. Staying organized: I had to start journaling key takeaways so that I don’t get lost, storing stuff in bookmarks, using outlook calendar etc
