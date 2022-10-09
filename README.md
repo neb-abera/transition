@@ -13,12 +13,12 @@
 6. [How do you train to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
 7. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
 8. [What learning resources have I personally purchased or used](https://github.com/nebyou-abera/transition/blob/main/README.md#what-resources-have-i-personally-purchased-or-used)
-   * Python
-   * C++
-   * data structures and algorithms
-   * technical interview
-   * career related
-   * fun computer science related books
+   * [Python](https://github.com/nebyou-abera/transition/blob/main/README.md#what-python-resources-have-i-personally-purchased-or-used)
+   * [C++](https://github.com/nebyou-abera/transition/blob/main/README.md#what-c-resources-have-i-personally-purchased-or-used)
+   * [data structures and algorithms](https://github.com/nebyou-abera/transition/blob/main/README.md#what-data-structures-and-algorithms-resources-have-i-personally-purchased-or-used)
+   * [technical interview](https://github.com/nebyou-abera/transition/blob/main/README.md#what-technical-interview-resources-have-i-personally-purchased-or-used)
+   * [career related](https://github.com/nebyou-abera/transition/blob/main/README.md#what-other-career-resources-have-i-personally-purchased-or-used)
+   * [fun computer science related books](https://github.com/nebyou-abera/transition/blob/main/README.md#what-computer-science-related-books-have-i-personally-purchased-or-read-for-fun)
 
 ## Intro
 I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
@@ -226,7 +226,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    * Elements of Programming Interviews in [Python](https://www.amazon.com/dp/1537713949/?coliid=I3MPRC82SZIL8X&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it) and [C++](https://www.amazon.com/dp/1479274836/?coliid=I2GHGD8ZX3UV0H&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it)
    * [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/?coliid=ICZLURMSLNBNY&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it)
 
-## What other career resources have I personally purchased or used
+## What other career related resources have I personally purchased or used
 
    * [The Ten Day MBA](https://www.amazon.com/gp/product/0062199579/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [The Visual MBA](https://www.amazon.com/gp/product/035834364X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [The Personal MBA](https://www.amazon.com/gp/product/0525543023/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
    * [The Phoenix Project](https://www.amazon.com/dp/0988262509?psc=1&ref=ppx_yo2ov_dt_b_product_details)
