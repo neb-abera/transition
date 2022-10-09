@@ -5,14 +5,20 @@
 ## Table of contents
 1. [Intro](https://github.com/nebyou-abera/transition#intro)
 2. [My recommendation on how to learn to program](https://github.com/nebyou-abera/transition#my-recommendation-on-how-to-learn-to-program)
-   [How can small kids learn to program](https://github.com/nebyou-abera/transition/blob/main/README.md#how-can-small-kids-learn-programming)
-   [How do you set your computer up for programming](https://github.com/nebyou-abera/transition/blob/main/README.md#how-do-i-set-my-computer-up-for-programming)
+   * [How can small kids learn to program](https://github.com/nebyou-abera/transition/blob/main/README.md#how-can-small-kids-learn-programming)
+   * [How do you set your computer up for programming](https://github.com/nebyou-abera/transition/blob/main/README.md#how-do-i-set-my-computer-up-for-programming)
 3. [Additional advice](https://github.com/nebyou-abera/transition#additional-advice)
 4. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber)](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
 5. [How do you get a technical job in the tech industry as a veteran or SM](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
 6. [How do you train to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
 7. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
 8. [What learning resources have I personally purchased or used](https://github.com/nebyou-abera/transition/blob/main/README.md#what-resources-have-i-personally-purchased-or-used)
+   * Python
+   * C++
+   * data structures and algorithms
+   * technical interview
+   * career related
+   * fun computer science related books
 
 ## Intro
 I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
@@ -220,13 +226,6 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    * Elements of Programming Interviews in [Python](https://www.amazon.com/dp/1537713949/?coliid=I3MPRC82SZIL8X&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it) and [C++](https://www.amazon.com/dp/1479274836/?coliid=I2GHGD8ZX3UV0H&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it)
    * [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/?coliid=ICZLURMSLNBNY&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it)
 
-## What computer science related books have I personally purchased or read for fun
-
-   * [Algorithms to Live By](https://www.amazon.com/dp/1250118360?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-   * [Sandworm](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1665341427&sr=8-1)
-   * [How Not to be Wrong](https://www.amazon.com/dp/1594205221?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-   * [Hack your Bureaucracy](https://www.amazon.com/dp/0306827751?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-
 ## What other career resources have I personally purchased or used
 
    * [The Ten Day MBA](https://www.amazon.com/gp/product/0062199579/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [The Visual MBA](https://www.amazon.com/gp/product/035834364X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), [The Personal MBA](https://www.amazon.com/gp/product/0525543023/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
@@ -239,3 +238,9 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    * [Designing Your Life](https://www.amazon.com/dp/1101875321?psc=1&ref=ppx_yo2ov_dt_b_product_details)
    * [So Good They Can't Ignore You](https://www.amazon.com/dp/0349415862?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
+## What computer science related books have I personally purchased or read for fun
+
+   * [Algorithms to Live By](https://www.amazon.com/dp/1250118360?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [Sandworm](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1665341427&sr=8-1)
+   * [How Not to be Wrong](https://www.amazon.com/dp/1594205221?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [Hack your Bureaucracy](https://www.amazon.com/dp/0306827751?psc=1&ref=ppx_yo2ov_dt_b_product_details)
