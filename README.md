@@ -58,7 +58,7 @@ I made these guides during my transition from the Army to Software Development. 
 
 2. Include dedicated coding and problem-solving training in your schedule (daily repetition is best) 
       
-   I recommend [codewars](https://www.codewars.com/) to all beginners for daily practice. It's a free website that will give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
+   I recommend [Codewars](https://www.codewars.com/) to all beginners for daily practice. It's a free website that will give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
    
    Practicing a little bit every day is better than practicing a lot not very often.
    
@@ -72,8 +72,8 @@ I made these guides during my transition from the Army to Software Development. 
       6. find a different problem and restart this process until I'm done with the training session
 
    You need to use sites to train your problem-solving and programming language-specific skills.
-   * [codewars](https://www.codewars.com/) is great for beginners to rank up and is free
-   * [Edabit](https://edabit.com/) has a lot of good problems to practice, but lacks the structure of CodeWars and I used up the free trial in like two days
+   * [Codewars](https://www.codewars.com/) is great for beginners to rank up and is free
+   * [Edabit](https://edabit.com/) has a lot of good problems to practice, but lacks the structure of Codewars and I used up the free trial in like two days
    * [LeetCode](https://leetcode.com/) but you'll need to finish a DSA course before you'll be able to solve most of the problems. It's free and I only recommend getting a subscription after you've done a DSA course AND if you're REALLY interested in knowing what companies focus on specific DSA problems.
    
    ### How do you set your computer up for programming
@@ -162,14 +162,14 @@ I made these guides during my transition from the Army to Software Development. 
 ## Do certifications, degrees, or skills matter for getting a job in the industry
 
 For jobs in computer science fields, the most important things are
-   -relevant software engineering experience using the software stack they are hiring for
-   -years of experience in that specific field
-   -years of experience in a computer science field in general
+   -relevant job experience using the software stack and skills they are hiring for
+   -years of experience in that specific field using adjacent stacks and skills
+   -years of experience in a general computer science field
    -passing the hiring assessments (usually they use sites like “leetcode” or their own assessment)
 
-You don't need a degree in computer science, IT, or cyber to get into those fields. The degree, and some certs, will be most important when you're looking for your first role in the industry. The degree will help you get your foot in the door, make you more competitive than your peers, will probably give you relevant skills, and has taught you “how to learn” and how you learn best. Getting a degree is great and makes you more competitive, but isn’t a requirement. Once you learn how to program, probably 3 or so months, it’ll take you about 3-6 or so months to learn data structures and algorithms well enough to pass “hard” level problems on leetcode which is what the MAANG companies require. If you want a regular job you won’t even need to master data structure and algorithms. You could be employable after learning how to program.
+You don't need a degree in computer science, IT, or cyber to get into those fields. The degree, and some certs, will matter most only when you're looking for your first role in the industry. The degree will help you get your foot in the door, make you more competitive than your peers, will probably give you relevant skills, and has taught you “how to learn” and how you learn best. Getting a degree is great and makes you more competitive, but isn’t a requirement. Once you learn how to program it’ll take you about 3-6 or so months, if you're dedicated, to learn data structures and algorithms well enough to pass “hard” level problems on leetcode which is what the MAANG companies require. If you want a regular job you won’t even need to master data structure and algorithms. You could be employable after learning how to program.
 
-The key thing to know is that in these fields what pays is experience. The better you’re at your job, no matter what field, the more you’ll make. The top-level IT guys make just as much if not more than software engineers. The important thing is to pick something that interests you, or that you could stand doing, and the money will come.
+The key thing to know is that in these fields what pays is experience. The better you are at your job, no matter what field, the more you’ll make. The top-level IT guys make just as much if not more than software engineers. The important thing is to pick something that interests you, or that you could stand doing, and the money will come.
 
 There aren’t really any certs worth their weight in software engineering. In IT and cyber, there are certs that will help since they certify the knowledge you have, but they are not a replacement for it. However, certs are good for use as a study guide for what skills you need to learn. I use to use the site below, but it looks like their link broke I sent them a message). But to answer your question, it depends on what part of software development you’re interested in. But generally, no one cares about certs past the first software development job. Certs and degrees will help candidates get their first entry-level job. After that companies just look for years of experience and what you can build for them to make them money
 
