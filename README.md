@@ -8,7 +8,7 @@
    * [How can small kids learn to program](https://github.com/nebyou-abera/transition#how-can-small-kids-learn-to-program)
    * [How do you set your computer up for programming](https://github.com/nebyou-abera/transition#how-do-you-set-your-computer-up-for-programming)
 3. [Additional advice](https://github.com/nebyou-abera/transition#additional-advice)
-4. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber)]https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
+4. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
 5. [How do you get a technical job in the tech industry as a veteran or SM](https://github.com/nebyou-abera/transition#how-do-you-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
 6. [How do you train to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-you-train-to-pass-a-technical-assessment-or-interview)
 7. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
