@@ -242,10 +242,10 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    * [What Color is Your Parachute](https://www.amazon.com/dp/1984860348?psc=1&ref=ppx_yo2ov_dt_b_product_details)
    * [Designing Your Life](https://www.amazon.com/dp/1101875321?psc=1&ref=ppx_yo2ov_dt_b_product_details)
    * [So Good They Can't Ignore You](https://www.amazon.com/dp/0349415862?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+   * [Hack your Bureaucracy](https://www.amazon.com/dp/0306827751?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 ## What computer science related books have I personally purchased or read for fun
 
    * [Algorithms to Live By](https://www.amazon.com/dp/1250118360?psc=1&ref=ppx_yo2ov_dt_b_product_details)
    * [Sandworm](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1665341427&sr=8-1)
    * [How Not to be Wrong](https://www.amazon.com/dp/1594205221?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-   * [Hack your Bureaucracy](https://www.amazon.com/dp/0306827751?psc=1&ref=ppx_yo2ov_dt_b_product_details)
