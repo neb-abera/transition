@@ -50,7 +50,7 @@ I made these guides during my transition from the Army to Software Development. 
    I recommend setting aside 5x60 minutes sessions a week to this. This is my methodology for training
       
       1. set a clock for 20 minutes
-      2. try to solve the problem with no documentatation
+      2. try to solve the problem with no documentatation (if you're a beginner and don't know the standard methods then please use documentation)
       3. compare my solution to other solutions provided
       4. if there's a significantly better way to solve the problem then I learn that pattern and redo the problem
       5. find a different problem and restart this process until I'm done with the training session
