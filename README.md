@@ -5,10 +5,12 @@
 ## Table of contents
 1. [Intro](https://github.com/nebyou-abera/transition#intro)
 2. [My recommendation on how to learn to program](https://github.com/nebyou-abera/transition#my-recommendation-on-how-to-learn-to-program)
+   [How can small kids learn to program](https://github.com/nebyou-abera/transition/blob/main/README.md#how-can-small-kids-learn-programming)
+   [How do you set your computer up for programming](https://github.com/nebyou-abera/transition/blob/main/README.md#how-do-i-set-my-computer-up-for-programming)
 3. [Additional advice](https://github.com/nebyou-abera/transition#additional-advice)
 4. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber)](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
-5. [How do I get a technical job in the tech industry as a veteran or SM](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
-6. [How do to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
+5. [How do you get a technical job in the tech industry as a veteran or SM](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
+6. [How do you train to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-i-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
 7. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
 8. [What learning resources have I personally purchased or used](https://github.com/nebyou-abera/transition/blob/main/README.md#what-resources-have-i-personally-purchased-or-used)
 
@@ -40,7 +42,7 @@ I made these guides during my transition from the Army to Software Development. 
 
    * [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. You should pick this if you're ambitious, or have prior experience. I don't get how it's so highly regarded for beginners on reddit. Most beginnners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. It's like a buffet of topics and I'm not sure if most people will leave the course confident in any of the languages they cover. However, it has the best instruction, resources, and subjects if you are a dedicated student.
 
-   ### How can small kids learn programming
+   ### How can small kids learn to program
    
    If you have small kids then I recommend getting them to try [codecombat](https://codecombat.com/) and [scratch](https://scratch.mit.edu/). You can graduate them to the recommendations above when they're ready. The tough part of teaching kids is keeping them engaged and focused on one task for a set period of time. These websites try to make the learning process fun for kids. So, I think they are worth a shot. 
 
@@ -61,7 +63,7 @@ I made these guides during my transition from the Army to Software Development. 
 
    You need to use sites like [codewars](https://www.codewars.com/) (great for beginners to rank up), [Edabit](https://edabit.com/) (has a lot of good problems to practice, but lacks the structure of codewars and I used up the free trial in like two days), and [LeetCode](https://leetcode.com/) (you'll need to finish a DSA course before you'll be able to solve most of the problems) to train your problem solving and programming language specific skills.
    
-   ### How do I set my computer up for programming
+   ### How do you set your computer up for programming
    
    Use [repl.it](repl.it) to practice in if you're intimidated by setting up a text editor or integrated development environment.
    
@@ -154,13 +156,13 @@ There aren’t really any certs worth their weight in software engineering. In I
 
 https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
-## How do I get a technical job in the tech industry as a veteran or service member
+## How do you get a technical job in the tech industry as a veteran or service member
 
    I recommend that service members or veterans use [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding bootcamps. They will upskill you and have connections on technical job placement. Service members and veterans should also apply for [BreakLine](https://breakline.org/). BreakLine's purpose is to help veterans, minorities, and women get into high paying tech roles. This is the best way to get a tech job.
    
    Remember that depending on the company, you will likely have to pass technical assessments to get a job offer.
    
-## How do to pass a technical assessment or interview
+## How do you train to pass a technical assessment or interview
 
    This level of preparation is probably overkill for most roles at most companies. However, it's good to expose yourself to what the top level companies expect for technical interviews
    
