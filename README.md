@@ -189,7 +189,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    * An article from Alex Nguyen on his system for solving problems in technical interviews [here](https://alexcancode.medium.com/the-coding-interview-formula-that-will-get-you-any-faang-maang-offer-45e71a3681e7) are a great guide.
    * A video from Clement Mihailescu on technical interviews [here](https://www.youtube.com/watch?v=-QxUp8MwbWw)
    * A video from Clement Mihailescu on the most important concepts for technical interviews [here](https://www.youtube.com/watch?v=Ge0Udbws1kc)
-   * [AlgoExpert](algoexpert.io) may help with DSA problems prep for technical interviews. I haven't tried it yet so I can't give my personal recommendation for it. I've heard it is a great product but lacks in some of the more advanced topics. I'll give it a try when I get ready for technical interviews in about 6 months.
+   * [AlgoExpert](algoexpert.io) may help with DSA problems prep for technical interviews. I haven't tried it yet so I can't give my personal recommendation for it. I've heard it is a great product but lacks systems design and should be used in tandem with products like Cracking the Coding Interview and Elements of Programming Interviews. I'll give it a try when I get ready for technical interviews in about 6 months.
    
 ## What programming languages should you learn
    
