@@ -74,7 +74,7 @@ I made these guides during my transition from the Army to Software Development. 
    You need to use sites to train your problem-solving and programming language-specific skills.
    * [Codewars](https://www.codewars.com/) is great for beginners to rank up and is free
    * [Edabit](https://edabit.com/) has a lot of good problems to practice, but lacks the structure of Codewars and I used up the free trial in like two days
-   * [LeetCode](https://leetcode.com/) but you'll need to finish a DSA course before you'll be able to solve most of the problems. It's free and I only recommend getting a subscription after you've done a DSA course AND if you're REALLY interested in knowing what companies focus on specific DSA problems.
+   * [LeetCode](https://leetcode.com/) but you'll need to finish a DSA course before you'll be able to solve most of the problems. It's free. I only recommend getting a subscription if you're REALLY interested in knowing what companies focus on specific DSA problems.
    
    ### How do you set your computer up for programming
    
