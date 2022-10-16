@@ -122,7 +122,7 @@ I made these guides during my transition from the Army to Software Development. 
    
    Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums, etc.
    
-   I recommend that you follow roadmaps like [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) roadmap until you know what you're doing. Another good roadmap is [roadmap.sh](https://roadmap.sh/python)
+   I recommend that you get ideas on what to study from roadmaps like [roadmap.sh](https://roadmap.sh/python) until you know what you're doing. I also like the [Open Source Computer Science Bacehlors](https://github.com/ossu/computer-science#intro-cs) for ideas on what I should study. I disagree with how OSCS requires discrete math BEFORE data structures and algorithms. Math like discrete math and linear algebra are great to study once you're ready to do more than [CRUD operations](https://www.codecademy.com/article/what-is-crud)
 
    AVOID PASSIVE "LEARNING" - This is one of the most common mistakes people make when they try to learn to program. You should spend more time "doing" than passively learning how to do something. Usually spending <=30% of your time reading/watching and >=70% coding
    
