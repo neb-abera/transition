@@ -13,6 +13,7 @@
 6. [How do you train to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-you-train-to-pass-a-technical-assessment-or-interview)
 7. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
 8. [What learning resources have I personally purchased or used](https://github.com/nebyou-abera/transition#what-learning-resources-have-i-personally-purchased-or-used)
+   * [Artificial Intelligence](https://github.com/nebyou-abera/transition#what-artificial-intelligence-machine-learning-resources-have-i-used)
    * [Python](https://github.com/nebyou-abera/transition#what-python-resources-have-i-personally-purchased-or-used)
    * [C++](https://github.com/nebyou-abera/transition#what-c-resources-have-i-personally-purchased-or-used)
    * [data structures and algorithms](https://github.com/nebyou-abera/transition#what-data-structures-and-algorithms-resources-have-i-personally-purchased-or-used)
