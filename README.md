@@ -215,9 +215,11 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 ## What learning resources have I personally purchased or used
 
+### What Artificial Intelligence (Machine Learning) resources have I used?
+
 ![](csp/machine_learning_pathway.png)
 
-As you can see, I have used a large variety of resources that span fields like math, computer science, career advice etc. I'll list some below if you're interested in some of the same topics. I encourage you to write down your priorities, make a 5 year plan, and backwards plan everything you need to do to be successful. Your daily actions should feed into your priorites.
+Artificial Intelligence, Machine Learning, and Deep Learning describe an emerging interdisciplinary field that takes years of study and practice to become competent in. You have to be deliberate about pursuing it if it's a serious interest of yours. I encourage you to write down your priorities, make a 5 or 10 year plan, and backwards plan everything you need to do to be successful. Your daily actions should feed into your priorites.
 
 ### What Python resources have I personally purchased or used
 
