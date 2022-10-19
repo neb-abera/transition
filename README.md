@@ -21,7 +21,7 @@
    * [fun computer science related books](https://github.com/nebyou-abera/transition#what-computer-science-related-books-have-i-personally-purchased-or-read-for-fun)
 
 ## Intro
-I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
+The target audience for this are people in the military that are interested in working in tech, but don't know how to program. I made these guides during my transition from the Army to Software Development. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
 
 1. The timeline on [Sutori](https://www.sutori.com/en/story/transition-timeline--neKEiwGvCVS7veAei58G9TUT) shows everything I learned during my transition, and has helpful links and documents embedded. It answers questions about 
    * the Army transition timeline, things I wish I had known, and recommendations about your transition
