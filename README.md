@@ -215,6 +215,10 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 ## What learning resources have I personally purchased or used
 
+![](csp/machine_learning_pathway.png)
+
+As you can see, I have used a large variety of resources that span fields like math, computer science, career advice etc. I'll list some below if you're interested in some of the same topics. I encourage you to write down your priorities, make a 5 year plan, and backwards plan everything you need to do to be successful. Your daily actions should feed into your priorites.
+
 ### What Python resources have I personally purchased or used
 
    Go to [pythonbooks](https://pythonbooks.org/for-programming-beginners/) to see a breakdown of highly rated books by skill level and topic
