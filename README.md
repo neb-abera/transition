@@ -87,7 +87,7 @@ The target audience for this are people in the military that are interested in w
 
 2. Take a data structures and algorithms (DSA) course
 
-   I recommend getting [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava and pairing that with [structy](structy.net). The book is illustrated, programmed in Python, and intuitive. Structy provides video instruction and an environment to code DSA in Python, JavaScript, and C++. Structy is a paid subscription by my favorite programming instructor. The website has videos, guides, lets you practice DSA problems, and has solutions all in one place. I found it very worth it.
+   I recommend getting [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava and pairing that with [structy](https://structy.net/). The book is illustrated, programmed in Python, and intuitive. Structy provides video instruction and an environment to code DSA in Python, JavaScript, and C++. Structy is a paid subscription by my favorite programming instructor. The website has videos, guides, lets you practice DSA problems, and has solutions all in one place. I found it very worth it.
    
    There are plenty of free resources online to learn DSA. You can get a free account on structy and then just youtube/google the section title for free resources. I needed the easy access, accountability, and structure of the book and course to learn.
    
