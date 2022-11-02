@@ -242,7 +242,7 @@ Terms like Artificial Intelligence, Cybernetics, Machine Learning, and Deep Lear
 
    * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) My first introduction to DSA
    * [structy](structy.net) The best way I've found to practice DSA
-   * [Intro to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_5?crid=3VWUPSM6S9CFJ&keywords=algorithms&qid=1665340606&qu=eyJxc2MiOiI1LjAyIiwicXNhIjoiNC42NiIsInFzcCI6IjQuOTcifQ%3D%3D&sprefix=algorithms%2Caps%2C111&sr=8-5) What I'll use as a reference once I'm done with structy and Grokking Algorithms
+   * [Intro to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_5?crid=3VWUPSM6S9CFJ&keywords=algorithms&qid=1665340606&qu=eyJxc2MiOiI1LjAyIiwicXNhIjoiNC42NiIsInFzcCI6IjQuOTcifQ%3D%3D&sprefix=algorithms%2Caps%2C111&sr=8-5) This is a great reference. I pull this out when I need to understand a topic deeper
 
 ### What technical interview resources have I personally purchased or used
 
