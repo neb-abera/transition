@@ -99,11 +99,25 @@ The target audience for this are people in the military that are interested in w
 
    Thinking like a programmer is the most important part of learning to program. That’s why no matter what route you take in programming, you’ll learn the skills of a programmer. That's because memorizing programming language syntax does not make you a programmer, applying the problem-solving mindset is what makes you a programmer.
    
-   My methodology is 
-      1. Read and understand what the problem is asking (inputs, process, and output)
-      2. Make a plan on how you think you can do it. Try to break the problem down into easier-to-tackle portions
-      3. Try your plan and research what the best way to do each item is
-      4. If it worked look up to see if there were better ways to do it. See what the best in the field are doing. If it didn’t work then go back to step 1
+   I like [Hack Reactor's problem solving methodology](https://youtu.be/9RkUYObX8us?t=1018). I've added my own additions in paranethesis
+   
+      1. Interpret the prompt 
+      2. IOCE - Inputs, outputs, constraints, edge cases
+      3. Write Tests
+      4. High Level Strategy(s) (& break the problem down into easier-to-tackle portions)
+        * Optional: Make a Diagram (can "white board" the problem. I like to use pen and a notebook)
+      6. Pseudocode the Strategy ( comment pseudocode directly into the program)
+      7. Implement the Solution
+   
+   I also add the following portions when I'm studying
+      8. Try your plan. 
+        * Try not to use any outside resources
+        * If you get stuck, for a reasonable amount of time, then allow yourself to use documentation
+        * If documentation doesn't help then as a last resort research what the best way to do each technique is
+      10. If your solution worked 
+        a. Look up to see if there were better ways to do it and re-try the problem using the optimal techniques 
+        b. See what the best people in the field are doing 
+        * If your solution didn't work then go back to step 1
 
    [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it.
    
