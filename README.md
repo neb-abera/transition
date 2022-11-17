@@ -177,9 +177,13 @@ The target audience for this are people in the military that are interested in w
 ## Do certifications, degrees, or skills matter for getting a job in the industry
 
 For jobs in computer science fields, the most important things are
+
    -relevant job experience using the software stack and skills they are hiring for
+   
    -years of experience in that specific field using adjacent stacks and skills
+   
    -years of experience in a general computer science field
+   
    -passing the hiring assessments (usually they use sites like “leetcode” or their own assessment)
 
 You don't need a degree in computer science, IT, or cyber to get into those fields. The degree, and some certs, will matter most only when you're looking for your first role in the industry. The degree will help you get your foot in the door, make you more competitive than your peers, will probably give you relevant skills, and has taught you “how to learn” and how you learn best. Getting a degree is great and makes you more competitive, but isn’t a requirement. Once you learn how to program it’ll take you about 3-6 or so months, if you're dedicated, to learn data structures and algorithms well enough to pass “hard” level problems on leetcode which is what the MAANG companies require. If you want a regular job you won’t even need to master data structure and algorithms. You could be employable after learning how to program with 6-12 months worth of practice. Some companies are willing to hire beginners and train them as junior developers, so you might get a job quickly after learning how to program.
