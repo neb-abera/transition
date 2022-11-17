@@ -238,7 +238,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 ![](csp/machine_learning_pathway.png)
 
-Terms like Artificial Intelligence, Cybernetics, Machine Learning, and Deep Learning describe an emerging interdisciplinary field that takes years of study and practice to become competent in. People often enter the field from backgrounds in computer science, data science, math, neuroscience etc. Some folks take the "hands-on" approach while others spend years attaining math maturity. You have to be deliberate about pursuing if it's a serious interest of yours. I encourage you to talk to people in the industry, write down your priorities, make a 5 or 10 year plan, and backwards plan everything you need to do to be successful. Your daily actions should feed into your priorites.
+Terms like Artificial Intelligence, Cybernetics, Machine Learning, and Deep Learning describe an emerging interdisciplinary field that takes years of study and practice to become competent in. People often enter the field from backgrounds in computer science, data science, math, neuroscience etc. Some folks take the "hands-on" approach while others spend years attaining math maturity. If you're interested in working in the field, and not just learn enough to use it as a hobby or to solve some of the problems you encounter in your own field, I encourage you to talk to people in the industry, write down your priorities, make a 5 or 10 year plan, and backwards plan everything you need to do to be successful. Your daily actions should feed into your priorites.
 
 ### What Python resources have I personally purchased or used
 
