@@ -250,9 +250,10 @@ Terms like Artificial Intelligence, Cybernetics, Machine Learning, and Deep Lear
 
 ### What C++ resources have I personally purchased or used
 
-   * [Programming: Principles and Practice using C++ (2nd Edition)](https://www.amazon.com/gp/product/0321992784/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) This is the first book I got after I completed the prep course for a coding boot camp. I still haven't finished this book so I can't move on to the more advanced books on my C++ list
-   * [LearnCPP.com](https://www.learncpp.com/) is a free resources that is very well structured and easy to use as a quick reference
-   * [The C++ Programming Language (4th Edition)](https://www.amazon.com/gp/product/0321958322/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+   * [Programming: Principles and Practice using C++ (2nd Edition)](https://www.amazon.com/gp/product/0321992784/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) This is the first book I got after I completed the prep course for a coding boot camp. I think it does an almost unecssarily detailed job of explaining C++. It's a great resource but there are quicker ways to learn C++. It sometimes uses concepts before they're introduced, seems to pontificate on some subjects uneccesarily or too early.
+   * [LearnCPP.com](https://www.learncpp.com/) is a free resources that is very well structured and easy to use as a quick way to practice
+   * [cppreference.com](https://www.cppreference.com/) is a free reference resource that is very well structured and easy to use as a quick reference
+   * [The C++ Programming Language (4th Edition)](https://www.amazon.com/gp/product/0321958322/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) This is a valuable reference (covers C++ 11 and 14)
    * [Effective C++](https://www.amazon.com/gp/product/0321334876/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
    * [Effective Modern C++](https://www.amazon.com/gp/product/1491903996/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
