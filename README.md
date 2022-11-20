@@ -47,9 +47,11 @@ The target audience for this are people in the military that are interested in w
    
    * [The prep course from Hack Reactor](https://www.hackreactor.com/prep-programs): This is a good alternative to the first course if you're okay with learning JavaScript. I like it because it is free, forces repetition, and has one path to completion. I think prep courses from boot camps are valuable because these companies know how to teach beginners to become software developers. They do what they know works. I also believe that the repetition they provide is essential to the learning process. This program forces you to get the repetitions in. There is some instruction, you try stuff on your own, and then there's a video to watch if you get lost and need help. It is taught in JavaScript so it's only useful if you'd like to learn or work in web development.
 
+  * There are many exceptional intro programming courses on [Udemy](https://www.udemy.com/courses/search/?q=programming&src=sac&kw=progr) such as [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/).
+
    * [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. You should pick this if you're ambitious, or have prior experience. I don't get how it's so highly regarded for beginners on Reddit. Most beginners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. It's like a buffet of topics and I'm not sure if most people will leave the course confident in any of the languages they cover. However, it has the best instruction, resources, and subjects if you are a dedicated student.
    
-   * There are many exceptional intro programming courses on [Udemy](https://www.udemy.com/courses/search/?q=programming&src=sac&kw=progr) such as [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/).
+
 
    ### How can kids learn to program
    
