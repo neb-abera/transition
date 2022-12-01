@@ -232,7 +232,9 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 3. Other languages
    
-   You need a more “robust” or “heavy-duty” programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned two programming languages so picking up additional ones will be much easier for you
+   You need a more “robust” or “heavy-duty” programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you.
+   
+   If you don't know what you should learn, I recommend that you learn C++. It is widely applicable, widely supported, and has a vast ecosystem of resources for learning it. If you're interested in competitive programming then I especially recommend C++.
 
    https://www.youtube.com/watch?v=9U684GbFST4
 
@@ -254,7 +256,7 @@ Terms like Artificial Intelligence, Cybernetics, Machine Learning, and Deep Lear
 
 ### What C++ resources have I personally purchased or used
 
-   * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) This is the most updated, best organized, and most intuitive way I've found to learn C++. 
+   * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) This is the most updated, best organized, and most intuitive way I've found to learn C++.
    * [Programming: Principles and Practice using C++ (2nd Edition)](https://www.amazon.com/gp/product/0321992784/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) This is how I was introduced to C++. It's a great resource but there are quicker, and more intuitive, ways to learn C++ for self-taught folks. I think my largest critiques are that it sometimes uses concepts before they're introduced, seems to pontificate on some subjects uneccesarily or too early, and isn't designed to get folks quickly trained by focusing on what I think are "fundamental."
    * [LearnCPP.com](https://www.learncpp.com/) is a free resource that is very well structured and easy to use as a quick way to practice
    * [cppreference.com](https://www.cppreference.com/) is a free reference resource that is very well structured and easy to use as a quick reference
@@ -264,6 +266,7 @@ Terms like Artificial Intelligence, Cybernetics, Machine Learning, and Deep Lear
 
 ### What data structures and algorithms resources have I personally purchased or used
 
+   * Abdul Bari's ["Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/) is the best single "reference" resource I have found for understanding data structures and algorithms in a deep and intuitive way. I found that I liked working through structy and then supplementing anything I needed more detail on with Bari's course. He is a phenomenal instructor and also runs a popular [YouTube channel](https://www.youtube.com/@abdul_bari/featured) that has even more DSA videos.
    * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) My first introduction to DSA
    * [structy](structy.net) The best way I've found to practice DSA
    * [Intro to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_5?crid=3VWUPSM6S9CFJ&keywords=algorithms&qid=1665340606&qu=eyJxc2MiOiI1LjAyIiwicXNhIjoiNC42NiIsInFzcCI6IjQuOTcifQ%3D%3D&sprefix=algorithms%2Caps%2C111&sr=8-5) This is a great reference. I pull this out when I need to understand a topic deeper
