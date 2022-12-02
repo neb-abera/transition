@@ -63,7 +63,7 @@ The target audience for this are people in the military that are interested in w
 
 2. Include dedicated coding and problem-solving training in your schedule (daily repetition is best) 
       
-   I recommend [Codewars](https://www.codewars.com/) to all beginners for daily practice. It's a free website that will give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
+   I recommend [Codewars](https://www.codewars.com/) to all beginners for daily practice. [HackerRank](https://www.hackerrank.com/dashboard) is a good option if you're style trying to learn the syntax of a language. Codewars is a free website that will give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
    
    Practicing a little bit every day is better than practicing a lot not very often.
    
@@ -256,7 +256,8 @@ Terms like Artificial Intelligence, Cybernetics, Machine Learning, and Deep Lear
 
 ### What C++ resources have I personally purchased or used
 
-   * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) This is the most updated, best organized, and most intuitive way I've found to learn C++.
+   * [Mastering 4 critical SKILLS using C++ 17](https://www.udemy.com/course/cpp-4skills/?amp=&aff_code=Ewh3Y1lWQH8FQR93MkBPbG1RGXFfW1h8B14ZeU5TQ3YBRxFzWj5XMRM%3D&pmtag=CAREERS24LEARN15&utm_campaign=careers24octlaunch&utm_medium=web) by Dr. Moustafa Saad Ibrahim is the quickest way I've found to learn C++. The emphasis is on short lectures and lots of problem solving.
+   * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) This is the most updated, best organized, and most intuitive way I've found to learn C++. However, it lacks a problem solving solving focus to force you into writing lots of C++
    * [Programming: Principles and Practice using C++ (2nd Edition)](https://www.amazon.com/gp/product/0321992784/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) This is how I was introduced to C++. It's a great resource but there are quicker, and more intuitive, ways to learn C++ for self-taught folks. I think my largest critiques are that it sometimes uses concepts before they're introduced, seems to pontificate on some subjects uneccesarily or too early, and isn't designed to get folks quickly trained by focusing on what I think are "fundamental."
    * [LearnCPP.com](https://www.learncpp.com/) is a free resource that is very well structured and easy to use as a quick way to practice
    * [cppreference.com](https://www.cppreference.com/) is a free reference resource that is very well structured and easy to use as a quick reference
@@ -266,9 +267,10 @@ Terms like Artificial Intelligence, Cybernetics, Machine Learning, and Deep Lear
 
 ### What data structures and algorithms resources have I personally purchased or used
 
+   * Dr Moustafa Saad Ibrahim has an excellent series on [data structures](https://www.udemy.com/course/dscpp-skills/], algorithms [part 1](https://www.udemy.com/course/skills-algorithms-cpp/) and [part 2](https://www.udemy.com/course/skills-algorithms-cpp2/), and a course for [technical interview problems](https://www.udemy.com/course/skills-coding-interviews/). He is a competitive programming coach and knows what it takes to excel at problem solving and DSA
    * Abdul Bari's ["Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/) is the best single "reference" resource I have found for understanding data structures and algorithms in a deep and intuitive way. I found that I liked working through structy and then supplementing anything I needed more detail on with Bari's course. He is a phenomenal instructor and also runs a popular [YouTube channel](https://www.youtube.com/@abdul_bari/featured) that has even more DSA videos.
    * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) My first introduction to DSA
-   * [structy](structy.net) The best way I've found to practice DSA
+   * [structy](structy.net) An excellent one stop shop for DSA. It only has one practice problem per topic covered though
    * [Intro to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_5?crid=3VWUPSM6S9CFJ&keywords=algorithms&qid=1665340606&qu=eyJxc2MiOiI1LjAyIiwicXNhIjoiNC42NiIsInFzcCI6IjQuOTcifQ%3D%3D&sprefix=algorithms%2Caps%2C111&sr=8-5) This is a great reference. I pull this out when I need to understand a topic deeper
 
 ### What technical interview resources have I personally purchased or used
