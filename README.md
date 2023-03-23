@@ -202,7 +202,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 ## How do you get a technical job in the tech industry as a veteran or service member
 
-   I recommend that service members or veterans use [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding boot camps. They will upskill you and have connections in technical job placement. 
+   If you're interested in Softare Engineering the best thing you can do is to "grind leetcode." By that I mean to master data structures and algorithms in a programming language and grind coding challenges on popular sites like leetcode. You can also consider using [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding boot camps. They will upskill you and have connections in technical job placement. 
    
    Service members and veterans should also apply for [BreakLine](https://breakline.org/) and take their [free online classes](https://breakline.org/public-classes-events/). BreakLine's purpose is to help veterans, minorities, and women get into high-paying tech roles. This is the best way to get a tech job.
    
