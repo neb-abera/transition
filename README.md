@@ -117,20 +117,24 @@ The target audience for this are people in the military that are interested in w
       7. Implement the Solution
    
    I also add the following portions when I'm studying
+   
       8. Try your plan. 
         * Try not to use any outside resources
         * If you get stuck, for a reasonable amount of time, then allow yourself to use documentation
         * If documentation doesn't help then as a last resort research what the best way to do each technique is
-      10. If your solution worked 
-        a. Look up to see if there were better ways to do it and re-try the problem using the optimal techniques 
-        b. See what the best people in the field are doing 
+         
+      9. If your solution worked 
+        a. Look up to see if there were better ways to do it and re-try the problem using the optimal techniques
+
+        b. See what the best people in the field are doing
+   
         * If your solution didn't work then go back to step 1
 
    [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it.
    
     I had never read [this website](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/), until I made this document, but they say the same thing I just did
 
-4. Learn how to search
+5. Learn how to search
 
    You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem-solving skill.
 
@@ -138,7 +142,7 @@ The target audience for this are people in the military that are interested in w
 
    Most of my search results on any given day are probably "best ______ Reddit" "best ______ quora"
 
-5. Be a curious and consistent learner
+6. Be a curious and consistent learner
 
    Continue to develop your problem-solving skills, and study follow on topics that interest you or that you want to work in. 
    
@@ -150,7 +154,7 @@ The target audience for this are people in the military that are interested in w
    
    Here are two videos on mistakes beginners make. The first is from [Aaron Jack](https://www.youtube.com/watch?v=T7aSI-E1fCE) and the second is a video from [William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc) on competitive programming but the principles still apply.
 
-6. Follow talented content producers
+7. Follow talented content producers
 
    Here are some of my favorite content producers
    
