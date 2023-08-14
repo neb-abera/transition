@@ -52,7 +52,27 @@ The target audience for this are people in the military that are interested in w
 
    * [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. You should pick this if you're ambitious, or have prior experience. I don't get how it's so highly regarded for beginners on Reddit. Most beginners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. It's like a buffet of topics and I'm not sure if most people will leave the course confident in any of the languages they cover. However, it has the best instruction, resources, and subjects if you are a dedicated student.
    
+## What programming languages should you learn
+   
+   Once you learn your first programming language, you’ll find that you need to learn more programming languages because you need better suited tools for what task you're trying to accomplish. Just remember that specialization is more important, will get you better paid, and will make you a better program. You should have one or two languages you are an expert at, and then one or two that you are familiar with. I recommend learning the following languages so that you’re well-rounded.
 
+1. Python: a high-level general-purpose language.
+   
+   Pros: Its syntax is similar to English so it’s very natural to read and write in. It is very easy to create programs quickly in Python. There are a lot of job opportunities. It is very well supported. It is a growing language. It’s used in software development, data science, artificial intelligence, cyber security
+   
+   Cons: it is a high-level, interpreted, dynamically typed language so you’ll need another language if you want to work in high-performance, embedded, systems programming, etc. It is a “slow” language when compared to languages like “C++”
+
+2. JavaScript: the dominant language of web development (only if you're interested in web development or a coding boot camp)
+   
+   Web development is the easiest way to get into high-paying software engineer jobs. Cons: it isn’t really useful for anything else. You can use frameworks to create applications using Javascript but they will be slower/worse than their native counterparts
+
+3. Other languages
+   
+   You need a more “robust” or “heavy-duty” programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you.
+   
+   If you don't know what you should learn, I recommend that you learn C++. It is widely applicable, widely supported, and has a vast ecosystem of resources for learning it. If you're interested in competitive programming then I especially recommend C++.
+
+   https://www.youtube.com/watch?v=9U684GbFST4
 
    ### How can kids learn to program
    
@@ -81,7 +101,7 @@ The target audience for this are people in the military that are interested in w
    * [Codewars](https://www.codewars.com/) is great for beginners to rank up and is free
    * [Edabit](https://edabit.com/) has a lot of good problems to practice, but lacks the structure of Codewars and I used up the free trial in like two days
    * [LeetCode](https://leetcode.com/) but you'll need to finish a DSA course before you'll be able to solve most of the problems. It's free. I only recommend getting a subscription if you're REALLY interested in knowing what companies focus on specific DSA problems.
-   
+
    ### How do you set your computer up for programming
    
    Use [repl.it](repl.it) to practice programming if you're intimidated by setting up a text editor or integrated development environment
@@ -222,28 +242,6 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    * A video from Clement Mihailescu on technical interviews [here](https://www.youtube.com/watch?v=-QxUp8MwbWw)
    * A video from Clement Mihailescu on the most important concepts for technical interviews [here](https://www.youtube.com/watch?v=Ge0Udbws1kc)
    * [AlgoExpert](algoexpert.io) may help with DSA problems prep for technical interviews. I haven't tried it yet so I can't give my personal recommendation for it. I've heard it is a great product but lacks systems design and should be used in tandem with products like Cracking the Coding Interview and Elements of Programming Interviews. I'll give it a try when I get ready for technical interviews in about 6 months.
-   
-## What programming languages should you learn
-   
-   Once you learn your first programming language, you’ll find that you need to learn more programming languages because you need better suited tools for what task you're trying to accomplish. Just remember that specialization is more important, will get you better paid, and will make you a better program. You should have one or two languages you are an expert at, and then one or two that you are familiar with. I recommend learning the following languages so that you’re well-rounded.
-
-1. Python: a high-level general-purpose language.
-   
-   Pros: Its syntax is similar to English so it’s very natural to read and write in. It is very easy to create programs quickly in Python. There are a lot of job opportunities. It is very well supported. It is a growing language. It’s used in software development, data science, artificial intelligence, cyber security
-   
-   Cons: it is a high-level, interpreted, dynamically typed language so you’ll need another language if you want to work in high-performance, embedded, systems programming, etc. It is a “slow” language when compared to languages like “C++”
-
-2. JavaScript: the dominant language of web development (only if you're interested in web development or a coding boot camp)
-   
-   Web development is the easiest way to get into high-paying software engineer jobs. Cons: it isn’t really useful for anything else. You can use frameworks to create applications using Javascript but they will be slower/worse than their native counterparts
-
-3. Other languages
-   
-   You need a more “robust” or “heavy-duty” programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you.
-   
-   If you don't know what you should learn, I recommend that you learn C++. It is widely applicable, widely supported, and has a vast ecosystem of resources for learning it. If you're interested in competitive programming then I especially recommend C++.
-
-   https://www.youtube.com/watch?v=9U684GbFST4
 
 ## What learning resources have I personally purchased or used
 
