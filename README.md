@@ -6,29 +6,30 @@
 ## Table of contents
 1. [Intro](https://github.com/nebyou-abera/transition#intro)
 2. [My recommendation on how to learn to program](https://github.com/nebyou-abera/transition#my-recommendation-on-how-to-learn-to-program)
-   1. Learn the fundamentals of programming
-   2. Include dedicated coding and problem-solving training in your schedule (daily repetition is best)
-   3. Take a data structures and algorithms (DSA) course
-   4. Learn to think like a Software Engineer
-   5. Learn how to search for solutions
-   6. Be a curious and consistent learner
-   7. Follow talented content producers
-   * [How can kids learn to program](https://github.com/nebyou-abera/transition#how-can-kids-learn-to-program)
-   * [How do you set your computer up for programming](https://github.com/nebyou-abera/transition#how-do-you-set-your-computer-up-for-programming)
+   1. [Learn the fundamentals of programming](https://github.com/neb-abera/transition/blob/main/README.md#1-learn-the-fundamentals-of-programming)
+   2. [Include dedicated coding and problem-solving training in your schedule (daily repetition is best)](https://github.com/neb-abera/transition/blob/main/README.md#2-include-dedicated-coding-and-problem-solving-training-in-your-schedule-daily-repetition-is-best)
+   3. [Take a data structures and algorithms (DSA) course](https://github.com/neb-abera/transition/blob/main/README.md#3-take-a-data-structures-and-algorithms-dsa-course)
+   4. [Learn to think like a Software Engineer](https://github.com/neb-abera/transition/blob/main/README.md#4-learn-to-think-like-a-software-engineer)
+   5. [Learn how to search for solutions independently](https://github.com/neb-abera/transition/blob/main/README.md#5-learn-how-to-search-for-solutions)
+   6. [Be a curious and consistent learner](https://github.com/neb-abera/transition/blob/main/README.md#6-be-a-curious-and-consistent-learner)
+   7. [Follow talented content producers](https://github.com/neb-abera/transition/blob/main/README.md#7-follow-talented-content-producers)
 4. [How to stay focused on learning to program](https://github.com/nebyou-abera/transition#how-to-stay-focused-on-learning-to-program)
-5. [My subjective opinion on working in three popular areas in tech (software development, IT, cyber)](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
-6. What matters most for getting a Software Engineering job?
-6. [How do you get a technical job in the tech industry as a veteran or SM](https://github.com/nebyou-abera/transition#how-do-you-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
-7. [How do you train to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-you-train-to-pass-a-technical-assessment-or-interview)
-8. [What programming languages should you learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
-9. [What learning resources have I personally purchased or used](https://github.com/nebyou-abera/transition#what-learning-resources-have-i-personally-purchased-or-used)
-   * [Artificial Intelligence](https://github.com/nebyou-abera/transition#what-artificial-intelligence-machine-learning-resources-have-i-used)
-   * [Python](https://github.com/nebyou-abera/transition#what-python-resources-have-i-personally-purchased-or-used)
+5. Frequently asked questions
+   6. [What programming languages should I learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
+   7. [How do you set your computer up for programming](https://github.com/nebyou-abera/transition#how-do-you-set-your-computer-up-for-programming)
+   9. [How can kids learn to program](https://github.com/nebyou-abera/transition#how-can-kids-learn-to-program)
+   8. [What field should I go into? (software development, IT, cyber)](https://github.com/nebyou-abera/transition#my-subjective-opinion-on-working-in-three-popular-areas-in-tech-software-development-it-cyber)
+   9. [What matters most for getting a Software Engineering job?](https://github.com/neb-abera/transition/blob/main/README.md#what-matters-most-for-getting-a-software-engineering-job-do-certifications-degrees-or-skills-matter-for-getting-a-job-in-the-industry)
+   6. [How do I get a technical job in the tech industry as a veteran or current Service Member](https://github.com/nebyou-abera/transition#how-do-you-get-a-technical-job-in-the-tech-industry-as-a-veteran-or-service-member)
+   7. [How do I train to pass a technical assessment or interview](https://github.com/nebyou-abera/transition#how-do-you-train-to-pass-a-technical-assessment-or-interview)
+9. [Learning resources I have personally used](https://github.com/nebyou-abera/transition#what-learning-resources-have-i-personally-purchased-or-used)
    * [C++](https://github.com/nebyou-abera/transition#what-c-resources-have-i-personally-purchased-or-used)
    * [data structures and algorithms](https://github.com/nebyou-abera/transition#what-data-structures-and-algorithms-resources-have-i-personally-purchased-or-used)
    * [technical interview](https://github.com/nebyou-abera/transition#what-technical-interview-resources-have-i-personally-purchased-or-used)
+   * [Python](https://github.com/nebyou-abera/transition#what-python-resources-have-i-personally-purchased-or-used)
    * [career related](https://github.com/nebyou-abera/transition#what-other-career-related-resources-have-i-personally-purchased-or-used)
    * [fun computer science related books](https://github.com/nebyou-abera/transition#what-computer-science-related-books-have-i-personally-purchased-or-read-for-fun)
+   * [Artificial Intelligence](https://github.com/nebyou-abera/transition#what-artificial-intelligence-machine-learning-resources-have-i-used)
 
 ## Intro
 The target audience for this are people in the military that are interested in working in tech, but don't know how to program. I made these guides during my transition from the Army to Software Development. The more I learn, the more I'll update. I embedded links, documents, and videos. I encourage you to click on those to ensure that you understand the topic in its breadth and depth. This is a work in progress so feel free to make send me questions, comments, and recommendations.
@@ -122,7 +123,7 @@ The target audience for this are people in the military that are interested in w
 
    [Andy Harris has a long, but thorough, video on this topic](https://www.youtube.com/watch?v=azcrPFhaY9k). You can also search for other videos on the topic. Don't feel compelled to watch the video, you can always come back to it.
    
-    I had never read [this website](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/), until I made this document, but they say the same thing I just did
+   I had never read [this website](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/), until I made this document, but they say the same thing I just did
 
 ### 5. Learn how to search for solutions
 
@@ -156,6 +157,7 @@ The target audience for this are people in the military that are interested in w
    * Alexander Nguyen on [LinkedIn](https://www.linkedin.com/in/alxngu/) and [Medium](https://alexcancode.medium.com/). He is a talented software engineer that publishes about how to get hired at tech companies
    * freeCodeCamp - Tons of free courses and videos on their [Youtube](https://www.youtube.com/c/Freecodecamp) and [website](https://www.freecodecamp.org/)
 
+## Frequently asked questions
 ## What programming languages should you learn
    
    Once you learn your first programming language, you’ll find that you need to learn more programming languages because you need better suited tools for what task you're trying to accomplish. Just remember that specialization is more important, will get you better paid, and will make you a better program. You should have one or two languages you are an expert at, and then one or two that you are familiar with. I recommend learning the following languages so that you’re well-rounded.
@@ -172,9 +174,11 @@ The target audience for this are people in the military that are interested in w
 
   3. Other languages
    
-   You need a more “robust” or “heavy-duty” programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you.
+   You'll need a more performant programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you. 
    
    If you [don't know what you should learn](https://www.youtube.com/watch?v=9U684GbFST4), I recommend that you learn C++. It is widely applicable, widely supported, and has a vast ecosystem of resources for learning it. If you're interested in competitive programming then I especially recommend C++. 
+
+   I prefer statically typed and compiled languages that offer access to low-level operations and resource management. That's why I recommend C++, [C# through .Net](https://dotnet.microsoft.com/en-us/languages/csharp), and TypeScript rather than JavaScript.
    
 ## How to stay focused on learning to program
 
@@ -184,12 +188,12 @@ The target audience for this are people in the military that are interested in w
    3. Learning the best way you learn: I’ve found that I learn best from textbooks and using code-grind websites to solve problems (like CodeWars or LeetCode). If you’re going to use code grind websites set a 20minute timer and try to solve the problem with no help besides looking at the documentation. Then look at the solution afterward and look up anything I didn’t know. I’ve found that I learn best by working through a textbook and then YouTubing anything I don’t understand right away. I buy textbooks because I like knowing the “why” behind stuff and I can bookmark it and reference it later. The danger with videos/books is that you can think you “know” how to do something by watching them. Don’t fall into that trap
 
 ## How do you set your computer up for programming
-   
+
+   I recommend just using a free flagship IDE like Visual Studio Community, XCode for Apple, until you know enough to move on. If I'm not using Visual Studio Community I like to use [Visual Studio Code](https://code.visualstudio.com/) with a whole host of extensions such as [these](https://www.google.com/search?q=visual+studio+code+extensions+reddit&sxsrf=ALiCzsZjFzulwX0oGGxnimjVpOUIIj0ErA%3A1665338511638&ei=jwxDY8KdJsyh5NoPubiF4A8&ved=0ahUKEwiCoaqz3dP6AhXMEFkFHTlcAfwQ4dUDCA4&uact=5&oq=visual+studio+code+extensions+reddit&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgM6CggAEEcQ1gQQsAM6BwgAELADEEM6DQguEMcBENEDELADEEM6DQgAEOQCENYEELADGAE6BAgAEENKBAhNGAFKBAhBGABKBAhGGAFQ3gpYihhggRloAXABeACAAV-IAbAEkgEBN5gBAKABAcgBEcABAdoBBggBEAEYCQ&sclient=gws-wiz)
+      
    Use [repl.it](repl.it) to practice programming if you're intimidated by setting up a text editor or integrated development environment
    
    The intro material you choose will give you instructions on what they recommend to do for set-up. Here is a list of [common text editors and integrated development environments (IDEs)](https://www.reddit.com/r/learnprogramming/wiki/tools)
-   
-   I recommend just using a free flagship IDE like Visual Studio Community, XCode for Apple, until you know enough to move on. If I'm not using Visual Studio Community I like to use [Visual Studio Code](https://code.visualstudio.com/) with a whole host of extensions such as [these](https://www.google.com/search?q=visual+studio+code+extensions+reddit&sxsrf=ALiCzsZjFzulwX0oGGxnimjVpOUIIj0ErA%3A1665338511638&ei=jwxDY8KdJsyh5NoPubiF4A8&ved=0ahUKEwiCoaqz3dP6AhXMEFkFHTlcAfwQ4dUDCA4&uact=5&oq=visual+studio+code+extensions+reddit&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgM6CggAEEcQ1gQQsAM6BwgAELADEEM6DQguEMcBENEDELADEEM6DQgAEOQCENYEELADGAE6BAgAEENKBAhNGAFKBAhBGABKBAhGGAFQ3gpYihhggRloAXABeACAAV-IAbAEkgEBN5gBAKABAcgBEcABAdoBBggBEAEYCQ&sclient=gws-wiz)
    
 ## How can kids learn to program
    
