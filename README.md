@@ -154,7 +154,9 @@ The target audience for this are people in the military that are interested in w
 
 6. Be a curious and consistent learner
 
-   Continue to develop your problem-solving skills, and study follow on topics that interest you or that you want to work in. 
+   Continue to develop your problem-solving skills, and study follow on topics that interest you or that you want to work in.
+
+   I recommend using [Teach Yourself CS](https://teachyourselfcs.com/) if you are a self-taught programmer.
    
    Programming is just like any other skill. You're only good at what you repeatedly do. Find what works best for you to understand a topic. You should use as many resources as it takes to find the best way to make a topic click for you. You can register for online courses, watch youtube videos, get textbooks, read forums, etc.
    
@@ -164,7 +166,7 @@ The target audience for this are people in the military that are interested in w
    
    Here are two videos on mistakes beginners make. The first is from [Aaron Jack](https://www.youtube.com/watch?v=T7aSI-E1fCE) and the second is a video from [William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc) on competitive programming but the principles still apply.
 
-7. Follow talented content producers
+8. Follow talented content producers
 
    Here are some of my favorite content producers
    
@@ -237,7 +239,9 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 ## How do you get a technical job in the tech industry as a veteran or service member
 
-   If you're interested in Softare Engineering the best thing you can do is to "grind leetcode," publish software got Github, and expand and utilize your network. By "grind leetcode" I mean to master data structures and algorithms in a programming language and grind coding challenges on popular sites like leetcode. You can also consider using [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding boot camps. They will upskill you and have connections in technical job placement. 
+   If you're interested in Softare Engineering the best thing you can do is to "grind leetcode," publish software got Github, and expand and utilize your network. You can do the majority of your networking via LinkedIn by finding veterans that are working in areas you're interested in. This is a good example of a resource I used early on from [Kalan Snyder](https://kalan.io/posts/military-to-software).
+   
+   By "grind leetcode" I mean to master data structures and algorithms in a programming language and grind coding challenges on popular sites like leetcode. You can also consider using [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding boot camps. They will upskill you and have connections in technical job placement. 
    
    Service members and veterans should also apply for [BreakLine](https://breakline.org/) and take their [free online classes](https://breakline.org/public-classes-events/). BreakLine's purpose is to help veterans, minorities, and women get into high-paying tech roles. This is the best way to get a tech job.
    
