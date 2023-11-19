@@ -14,7 +14,7 @@
    6. [Be a curious and consistent learner](https://github.com/neb-abera/transition/blob/main/README.md#6-be-a-curious-and-consistent-learner)
    7. [Follow talented content producers](https://github.com/neb-abera/transition/blob/main/README.md#7-follow-talented-content-producers)
 3. [How to stay focused on learning to program](https://github.com/nebyou-abera/transition#how-to-stay-focused-on-learning-to-program)
-4. Frequently asked questions
+4. [Frequently asked questions](https://github.com/neb-abera/transition#frequently-asked-questions)
    1. [What programming languages should I learn](https://github.com/nebyou-abera/transition#what-programming-languages-should-you-learn)
    2. [How do you set your computer up for programming](https://github.com/nebyou-abera/transition#how-do-you-set-your-computer-up-for-programming)
    3. [How can kids learn to program](https://github.com/nebyou-abera/transition#how-can-kids-learn-to-program)
@@ -166,7 +166,7 @@ The target audience for this are people in the military that are interested in w
    
    Pros: Its syntax is similar to English so it’s very natural to read and write in. It is very easy to create programs quickly in Python. There are a lot of job opportunities. It is very well supported. It is a growing language. It’s used in software development, data science, artificial intelligence, cyber security
    
-   Cons: it is a high-level, interpreted, dynamically typed language so you’ll need another language if you want to work in high-performance, embedded, systems programming, etc. It is a “slow” language when compared to languages like “C++”
+   Cons: it is a high-level, interpreted, dynamically typed language so you’ll need another language if you want to work in high-performance, embedded, systems programming, etc. It is a “slow” language when compared to languages like C++
 
   2. JavaScript: the dominant language of web development (only if you're interested in web development or a coding boot camp)
    
@@ -174,11 +174,9 @@ The target audience for this are people in the military that are interested in w
 
   3. Other languages
    
-   You'll need a more performant programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you. 
+   You'll need a more performant programming language if you need to do work that requires serious performance or memory management. If you [don't know what you should learn](https://www.youtube.com/watch?v=9U684GbFST4), I recommend that you learn C++. It is widely applicable, widely supported, and has a vast ecosystem of resources for learning it. If you're interested in competitive programming then I especially recommend C++. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you. 
    
-   If you [don't know what you should learn](https://www.youtube.com/watch?v=9U684GbFST4), I recommend that you learn C++. It is widely applicable, widely supported, and has a vast ecosystem of resources for learning it. If you're interested in competitive programming then I especially recommend C++. 
-
-   I prefer statically typed and compiled languages that offer access to low-level operations and resource management. That's why I recommend C++, [C# through .Net](https://dotnet.microsoft.com/en-us/languages/csharp), and TypeScript rather than JavaScript.
+   I prefer statically typed and compiled languages that offer access to low-level operations and resource management. I think the greatest combination of languages to get the ability to do the most while knowing the least amount of languages is C++, [C# through .Net](https://dotnet.microsoft.com/en-us/languages/csharp), TypeScript rather than JavaScript, and Python.
    
 ## How to stay focused on learning to program
 
