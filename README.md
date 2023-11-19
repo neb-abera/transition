@@ -6,13 +6,13 @@
 ## Table of contents
 1. [Intro](https://github.com/nebyou-abera/transition#intro)
 2. [My recommendation on how to learn to program](https://github.com/nebyou-abera/transition#my-recommendation-on-how-to-learn-to-program)
-  1. Learn the fundamentals of programming
-  2. Include dedicated coding and problem-solving training in your schedule (daily repetition is best)
-  3. Take a data structures and algorithms (DSA) course
-  4. Learn to think like a Software Engineer
-  5. Learn how to search for solutions
-  6. Be a curious and consistent learner
-  7. Follow talented content producers
+   1. Learn the fundamentals of programming
+   2. Include dedicated coding and problem-solving training in your schedule (daily repetition is best)
+   3. Take a data structures and algorithms (DSA) course
+   4. Learn to think like a Software Engineer
+   5. Learn how to search for solutions
+   6. Be a curious and consistent learner
+   7. Follow talented content producers
    * [How can kids learn to program](https://github.com/nebyou-abera/transition#how-can-kids-learn-to-program)
    * [How do you set your computer up for programming](https://github.com/nebyou-abera/transition#how-do-you-set-your-computer-up-for-programming)
 4. [How to stay focused on learning to program](https://github.com/nebyou-abera/transition#how-to-stay-focused-on-learning-to-program)
@@ -48,7 +48,7 @@ The target audience for this are people in the military that are interested in w
 
 ## My recommendation on how to learn to program
 
-1. Learn the fundamentals of programming
+### 1. Learn the fundamentals of programming
 
    There's really no wrong way to learn the fundamentals of programming. Just pick one and stick with it. However, I recommend that you focus on doing and ensure that you don't get stuck in "tutorial hell." Tutorial Hell is what happens when you passively watch tutorials and don't learn much, most likely because you aren't learning by doing, and will iteratively start and stop tutorials in perpetuity.
    
@@ -59,28 +59,8 @@ The target audience for this are people in the military that are interested in w
   * There are many exceptional intro programming courses for sale on [Udemy](https://www.udemy.com/courses/search/?q=programming&src=sac&kw=progr) such as [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) or [Mastering 4 critical SKILLS using C++ 17](https://www.udemy.com/course/cpp-4skills/?amp=&aff_code=Ewh3Y1lWQH8FQR93MkBPbG1RGXFfW1h8B14ZeU5TQ3YBRxFzWj5XMRM%3D&pmtag=CAREERS24LEARN15&utm_campaign=careers24octlaunch&utm_medium=web) by Dr. Moustafa Saad Ibrahim. The first course focuses on long instruction and limited practice, while the second is short on instruction and focused on practice and problem solving. I like Dr Moustafa's course the most out of all intro courses since it provides the best problem solving foundation. He also provides follow-up courses on data structures, algorithms, coding interviews, and runs competitive programming instruction. 
 
    * [Harvard's CS50x](https://cs50.harvard.edu/x/2022/): It's an incredible course, but I don't think it's for a beginner with no prior experience. You should pick this if you're ambitious, or have prior experience. I don't get how it's so highly regarded for beginners on Reddit. Most beginners will struggle with week 5 and beyond in this course. The course escalates quickly, includes data structures and algorithms (DSA), and uses a variety of languages. It's like a buffet of topics and I'm not sure if most people will leave the course confident in any of the languages they cover. However, it has the best instruction, resources, and subjects if you are a dedicated student.
-   
-## What programming languages should you learn
-   
-   Once you learn your first programming language, you’ll find that you need to learn more programming languages because you need better suited tools for what task you're trying to accomplish. Just remember that specialization is more important, will get you better paid, and will make you a better program. You should have one or two languages you are an expert at, and then one or two that you are familiar with. I recommend learning the following languages so that you’re well-rounded.
 
-  1. Python: a high-level general-purpose language.
-   
-   Pros: Its syntax is similar to English so it’s very natural to read and write in. It is very easy to create programs quickly in Python. There are a lot of job opportunities. It is very well supported. It is a growing language. It’s used in software development, data science, artificial intelligence, cyber security
-   
-   Cons: it is a high-level, interpreted, dynamically typed language so you’ll need another language if you want to work in high-performance, embedded, systems programming, etc. It is a “slow” language when compared to languages like “C++”
-
-  2. JavaScript: the dominant language of web development (only if you're interested in web development or a coding boot camp)
-   
-   Web development is the easiest way to get into high-paying software engineer jobs. Cons: it isn’t really useful for anything else. You can use frameworks to create applications using Javascript but they will be slower/worse than their native counterparts
-
-  3. Other languages
-   
-   You need a more “robust” or “heavy-duty” programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you.
-   
-   If you [don't know what you should learn](https://www.youtube.com/watch?v=9U684GbFST4), I recommend that you learn C++. It is widely applicable, widely supported, and has a vast ecosystem of resources for learning it. If you're interested in competitive programming then I especially recommend C++. 
-
-2. Include dedicated coding and problem-solving training in your schedule (daily repetition is best) 
+### 2. Include dedicated coding and problem-solving training in your schedule (daily repetition is best) 
       
    I recommend [Codewars](https://www.codewars.com/) to all beginners for daily practice. [HackerRank](https://www.hackerrank.com/dashboard) is a good option if you're style trying to learn the syntax of a language. Codewars is a free website that will give you problems to solve based on your skill level and the language you want to get better at. They also have solutions posted and a forum to discuss stuff. It’s also fun for kids because you get a “rank” and it’s fun to level up.
    
@@ -100,7 +80,7 @@ The target audience for this are people in the military that are interested in w
    * [Edabit](https://edabit.com/) has a lot of good problems to practice, but lacks the structure of Codewars and I used up the free trial in like two days
    * [LeetCode](https://leetcode.com/) but you'll need to finish a DSA course before you'll be able to solve most of the problems. It's free. I only recommend getting a subscription if you're REALLY interested in knowing what companies focus on specific DSA problems.
 
-3. Take a data structures and algorithms (DSA) course
+### 3. Take a data structures and algorithms (DSA) course
 
    If you can afford it, Abdul Bari's ["Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/) is an incredible combo with Dr Moustafa Saad Ibrahim's [data structures](https://www.udemy.com/course/dscpp-skills/), algorithms [part 1](https://www.udemy.com/course/skills-algorithms-cpp/) and [part 2](https://www.udemy.com/course/skills-algorithms-cpp2/), and course for [technical interview problems](https://www.udemy.com/course/skills-coding-interviews/). Abdul Bari's course provides in-depth instruction with little problem solving, while Dr Moustafa's has concise instruction and lots of problem solving.
    
@@ -112,7 +92,7 @@ The target audience for this are people in the military that are interested in w
   
    If you want a follow-up DSA text, or just want a more robust reference, then I recommend the [Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=pd_lpo_3?pd_rd_i=026204630X&psc=1) textbook
    
-4. Learn to think like a Software Engineer
+### 4. Learn to think like a Software Engineer
 
    Thinking like a programmer is the most important part of learning to program. That’s why no matter what route you take in programming, you’ll learn the skills of a programmer. That's because memorizing programming language syntax does not make you a programmer, applying the problem-solving mindset is what makes you a programmer.
    
@@ -144,7 +124,7 @@ The target audience for this are people in the military that are interested in w
    
     I had never read [this website](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/), until I made this document, but they say the same thing I just did
 
-5. Learn how to search for solutions
+### 5. Learn how to search for solutions
 
    You need to learn how to effectively search for the answer to your questions. The sum of human knowledge is at your fingerprints, via a phone or computer, you just need to know how to sort and analyze relevant information. Being good at googling is a skill you should develop. You should always see what the best or most recommended way to do something is. Whether you’re buying a car, looking at how to learn a programming language, or solving a coding problem at an interview.. it’s all the same problem-solving skill.
 
@@ -152,7 +132,7 @@ The target audience for this are people in the military that are interested in w
 
    Most of my search results on any given day are probably "best ______ Reddit" "best ______ quora"
 
-6. Be a curious and consistent learner
+### 6. Be a curious and consistent learner
 
    Continue to develop your problem-solving skills, and study follow on topics that interest you or that you want to work in.
 
@@ -166,7 +146,7 @@ The target audience for this are people in the military that are interested in w
    
    Here are two videos on mistakes beginners make. The first is from [Aaron Jack](https://www.youtube.com/watch?v=T7aSI-E1fCE) and the second is a video from [William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc) on competitive programming but the principles still apply.
 
-8. Follow talented content producers
+### 7. Follow talented content producers
 
    Here are some of my favorite content producers
    
@@ -176,6 +156,26 @@ The target audience for this are people in the military that are interested in w
    * Alexander Nguyen on [LinkedIn](https://www.linkedin.com/in/alxngu/) and [Medium](https://alexcancode.medium.com/). He is a talented software engineer that publishes about how to get hired at tech companies
    * freeCodeCamp - Tons of free courses and videos on their [Youtube](https://www.youtube.com/c/Freecodecamp) and [website](https://www.freecodecamp.org/)
 
+## What programming languages should you learn
+   
+   Once you learn your first programming language, you’ll find that you need to learn more programming languages because you need better suited tools for what task you're trying to accomplish. Just remember that specialization is more important, will get you better paid, and will make you a better program. You should have one or two languages you are an expert at, and then one or two that you are familiar with. I recommend learning the following languages so that you’re well-rounded.
+
+  1. Python: a high-level general-purpose language.
+   
+   Pros: Its syntax is similar to English so it’s very natural to read and write in. It is very easy to create programs quickly in Python. There are a lot of job opportunities. It is very well supported. It is a growing language. It’s used in software development, data science, artificial intelligence, cyber security
+   
+   Cons: it is a high-level, interpreted, dynamically typed language so you’ll need another language if you want to work in high-performance, embedded, systems programming, etc. It is a “slow” language when compared to languages like “C++”
+
+  2. JavaScript: the dominant language of web development (only if you're interested in web development or a coding boot camp)
+   
+   Web development is the easiest way to get into high-paying software engineer jobs. Cons: it isn’t really useful for anything else. You can use frameworks to create applications using Javascript but they will be slower/worse than their native counterparts
+
+  3. Other languages
+   
+   You need a more “robust” or “heavy-duty” programming language if you need to do work that requires serious performance or memory management. I like C++ but there’s such a wide list of languages that I’ll let you figure out what you want to pursue. At this point, you’ll have already learned one or two programming languages so picking up additional ones will be much easier for you.
+   
+   If you [don't know what you should learn](https://www.youtube.com/watch?v=9U684GbFST4), I recommend that you learn C++. It is widely applicable, widely supported, and has a vast ecosystem of resources for learning it. If you're interested in competitive programming then I especially recommend C++. 
+   
 ## How to stay focused on learning to program
 
    There's really no best way to learn software development. It’s a wide field, with tons of sub-fields, and a lot of information. Here are some important tips I’ve found
@@ -217,17 +217,17 @@ The target audience for this are people in the military that are interested in w
 
 For jobs in computer science fields, the most important things are
 
-   -relevant job experience using the software stack and skills they are hiring for
+   *relevant job experience using the software stack and skills they are hiring for
    
-   -years of experience in that specific field using adjacent stacks and skills
+   *years of experience in that specific field using adjacent stacks and skills
    
-   -years of experience in a general computer science field
+   *years of experience in a general computer science field
    
-   -passing the hiring assessments (usually they use sites like “leetcode” or their own assessment)
+   *passing the hiring assessments (usually they use sites like “leetcode” or their own assessment)
 
-   -government organizations, contractors, and some companies also give veteran's preference.. especially if they have security clearances (since it saves them time and tens of thousands of dollars)
+   *government organizations, contractors, and some companies also give veteran's preference.. especially if they have security clearances (since it saves them time and tens of thousands of dollars)
 
-   -networking and personability. Join professional organizations, attend conferences, attend local meetups etc. This will help build your network
+   *networking and personability. Join professional organizations, attend conferences, attend local meetups etc. This will help build your network
 
 You don't need a degree in computer science, IT, or cyber to get into those fields. The degree, and some certs, will matter most only when you're looking for your first role in the industry. The degree will help you get your foot in the door, make you more competitive than your peers, will probably give you relevant skills, and has taught you “how to learn” and how you learn best. Getting a degree is great and makes you more competitive, but isn’t a requirement. Once you learn how to program it’ll take you about 3-6 or so months, if you're dedicated, to learn data structures and algorithms well enough to pass “hard” level problems on leetcode which is what the MAANG companies require. If you want a regular web development job you won’t even need to master data structure and algorithms. You could be employable after learning how to program with 6-12 months worth of practice. Some companies are willing to hire beginners and train them as junior developers, so you might get a job quickly after learning how to program.
 
@@ -239,9 +239,9 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 ## How do you get a technical job in the tech industry as a veteran or service member
 
-   If you're interested in Softare Engineering the best thing you can do is to "grind leetcode," publish software got Github, and expand and utilize your network. You can do the majority of your networking via LinkedIn by finding veterans that are working in areas you're interested in. This is a good example of a resource I used early on from [Kalan Snyder](https://kalan.io/posts/military-to-software).
+   If you're interested in Softare Engineering the best thing you can do is to "grind leetcode," publish software, and expand and utilize your network. You can do the majority of your networking via LinkedIn by finding veterans that are working in areas you're interested in. This is a good example of a resource I used early on from [Kalan Snyder](https://kalan.io/posts/military-to-software).
    
-   By "grind leetcode" I mean to master data structures and algorithms in a programming language and grind coding challenges on popular sites like leetcode. You can also consider using [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding boot camps. They will upskill you and have connections in technical job placement. 
+   By "grind leetcode" I mean to master data structures and algorithms in a programming language and grind coding challenges on popular sites like leetcode. I have my recommendations on free and paid products below. You can also consider using [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding boot camps. They will upskill you and have connections in technical job placement. 
    
    Service members and veterans should also apply for [BreakLine](https://breakline.org/) and take their [free online classes](https://breakline.org/public-classes-events/). BreakLine's purpose is to help veterans, minorities, and women get into high-paying tech roles. This is the best way to get a tech job.
    
@@ -262,14 +262,6 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    * [AlgoExpert](algoexpert.io) may help with DSA problems prep for technical interviews. I haven't tried it yet so I can't give my personal recommendation for it. I've heard it is a great product but lacks systems design and should be used in tandem with products like Cracking the Coding Interview and Elements of Programming Interviews. I'll give it a try when I get ready for technical interviews in about 6 months.
 
 ## What learning resources have I personally purchased or used
-
-### What Python resources have I personally purchased or used
-
-   Go to [pythonbooks](https://pythonbooks.org/for-programming-beginners/) to see a breakdown of highly rated books by skill level and topic
-
-   * [Learning Python, 5th Edition](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) I love a good textbook. This is no longer updated though
-   * [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) Their method is to teach you the basics quickly and then throw you into building projects. I do agree that forcing people to build stuff will make them figure out stuff on their own.  However, I like the other products more for my way of learning. I come back to this when I want to learn useful skills and projects
-   * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) I haven't gotten to this yet. It came highly recommended so I can't wait to tackle it after I graduate from Hack Reactor
 
 ### What C++ resources have I personally purchased or used
 
@@ -294,6 +286,14 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
    * Elements of Programming Interviews in [Python](https://www.amazon.com/dp/1537713949/?coliid=I3MPRC82SZIL8X&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it) and [C++](https://www.amazon.com/dp/1479274836/?coliid=I2GHGD8ZX3UV0H&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it)
    * [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850/?coliid=ICZLURMSLNBNY&colid=V4W7RR71H1OW&psc=1&ref_=lv_ov_lig_dp_it)
+
+### What Python resources have I personally purchased or used
+
+   Go to [pythonbooks](https://pythonbooks.org/for-programming-beginners/) to see a breakdown of highly rated books by skill level and topic
+
+   * [Learning Python, 5th Edition](https://www.oreilly.com/library/view/learning-python-5th/9781449355722/) I love a good textbook. This is no longer updated though
+   * [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc) Their method is to teach you the basics quickly and then throw you into building projects. I do agree that forcing people to build stuff will make them figure out stuff on their own.  However, I like the other products more for my way of learning. I come back to this when I want to learn useful skills and projects
+   * [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) I haven't gotten to this yet. It came highly recommended so I can't wait to tackle it after I graduate from Hack Reactor
 
 ## What other career-related resources have I personally purchased or used
 
