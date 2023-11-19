@@ -239,7 +239,7 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
 
 ## How do you get a technical job in the tech industry as a veteran or service member
 
-   If you're interested in Softare Engineering the best thing you can do is to "grind leetcode," publish software, and expand and utilize your network. You can do the majority of your networking via LinkedIn by finding veterans that are working in areas you're interested in. This is a good example of a resource I used early on from [Kalan Snyder](https://kalan.io/posts/military-to-software).
+   The only real difference for veterans is that there are some dedicated/funded job readiness programs, plus a network to market yourself through. If you're interested in Software Engineering the best thing you can do is to "grind leetcode," publish software, and expand and utilize your network. You can do the majority of your networking via LinkedIn by finding veterans that are working in areas you're interested in. This is a good example of a resource I used early on from [Kalan Snyder](https://kalan.io/posts/military-to-software).
    
    By "grind leetcode" I mean to master data structures and algorithms in a programming language and grind coding challenges on popular sites like leetcode. I have my recommendations on free and paid products below. You can also consider using [VET TEC](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/) to attend coding boot camps. They will upskill you and have connections in technical job placement. 
    
@@ -250,6 +250,33 @@ https://www.itresourcescorp.com/top-it-certifications-roadmap/
    If you have a security clearance then it may make you seem like a more attractive applicant to government contractors since clearances can cost them time and tens of thousands of dollars to get for uncleared workers.
 
    However, these companies often do capital E Engineering, not the typical web development which has a lower bar to entry, which involves using STEM skills to fight against limitations like physics to optimize the performance of a manufactured product, enterprise scale teams tackling enterprise scale problems, legal and moral liability etc. They absolutely prefer STEM graduates. You should do everything you can to make yourself the most appealing applicant possible. It's a myth to think that you are guaranteed a job just because you have a clearance. If you don't have a STEM degree, preferably in Computer Science or Electrical Engineering, then I recommend that you pursue graduate studies.
+
+   Understanding capitalism will help you focus your job search
+
+   * Corporations are capitalist. They are always optimizing. They provide goods and services to make money, they must comply with regulators. Their goals are to make money, stay out of trouble, have a good reputation. Hirers are interested in exceptional demonstrated performance and potential. They want someone that consistently achieves results. They're always on the lookout for 10xers or unicorns. They want to go with safe bets and proven people
+
+   * NGC in the business of engineering. Massive aerospace and defense projects. Incredible amount of legal and ethical requirements. Billions on the line. Lives of people on the line. Have lots of competition. They do capital E professional Engineering (fighting the limits of math/physics/science, legal requirements, ethical requirements, systems engineering).
+
+   * Tech companies rely a lot on investment. timing can play a part in getting hired. When the fed sets interest rates low, money is coming in then they can afford to take more risks (hiring traditionally un-qualified people since they need bodies, startups that get investments for dumb ideas or that don't turn a profit)
+
+   * Corporations have enterprise scale problems. Knowing how to code doesn't make you stand out. Knowing how to solve enterprise level or scaling problems do. Focusing on unsexy enterprise tech or skills can be useful (design patterns, making ugprades in large code bases without breaking integration, unit/integration testing, authentication/authorization, CI/CD, dependency management etc)
+
+   * You are competing against a horde of peers, so why would shortcuts work? (especially in a market that's saturated like junior SWE). So do everything you can to make yourself marketable (masters degree, networking at conferences/meetups, publishing novel work with peers etc). Hiring a junior Software Engineer is a >$100k gamble. How are you going to make yourself appealing to the corporation when compared to your peers. Tens of thousands of Computer Science, Computer Engineers, Electrical Engineers, Mathematicians graduate every year. Not to mention tens of thousands of more Mechanical, Systems, Bio engineers etc. Then you have the Tech anscillary fields like IT UX. Then everyone else.
+
+   Fundamentals of hirability at NGC (really anywhere)
+
+   * Relevant professional experience
+   * Exceptional performance on indicators of success (competitions, certifications, professional exams, leetcode etc)
+   * Security clearance - costs companies tens of thousands of dollars. It's an advantage if you already have one
+   * Military service - can use this to gain relevant professional experience, security clearance, money for education, easier acceptance criterias, networking etc
+   * Education
+   * relevant course of study
+   * performance
+   * reputation of institution. Membership in exceptional organizations reflects well on yourself. You represent your organizations, and they represent you
+   * Performance / accolades. Looking for demonstrated high performance across years, an ability to adapt and maintain high performance. Competitive programming, math competitions are great. How have you performed in comparison to your peers at the highest level?
+   * Network: knowing people that can vouch for you and expend their political capital on you. Your network should have breadth and depth. Membership in professional organizations. Go to conferences. It's easier to have execs get you a job since they have more influence
+   * Market economics: Is the field saturated for juiniors? Is there heavy investment/growth currently? I've given four referalls to people with Math/CS degree, some masters degrees, in the past few months and none of them passed. Target less competitive jobs (maybe transfer later): IT, software quality. Or target less competitive/desirable/harder fields in SWE (embedded, enterprise scale problems)
+   * Likeability
    
 ## How do you train to pass a technical assessment or interview
 
