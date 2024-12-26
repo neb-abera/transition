@@ -1,5 +1,5 @@
 # <p align="center">Everything I learned transitioning from the Army to Software Development</p>
-### <p align="center">[A complete Sutori military transition timeline with recommendations and linked resources](https://abera.tech/transition)</p>
+### <p align="center">[The Military Transition Guide I Wish I Had](https://abera.tech/transition)</p>
 ### <p align="center">[Contact me at my LinkedIn](https://www.linkedin.com/in/neb-abera/)</p>
 ### <p align="center">[Schedule a time to speak with me](https://calendar.app.google/A9qmhJ8KePkLPWDV9)</p>
 
